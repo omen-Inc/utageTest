@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   chapterName: 
   dataList:
-  - {fileID: 11400000, guid: 0125684b363965e419b740eb97b901ce, type: 2}
+  - {fileID: 11400000, guid: fa7a56cfbebc04af896420de7ed64033, type: 2}
   settingList:
   - rows:
     - rowIndex: 0
@@ -43,9 +43,105 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    name: Assets/test260903/test260903.xls:Character
+    - rowIndex: 1
+      debugIndex: 1
+      strings:
+      - "\u6D6A\u5DDD\u6709\u5E0C"
+      - 
+      - "\u901A\u5E38"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - yuki/001_namikawa_normal.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 2
+      debugIndex: 2
+      strings:
+      - 
+      - 
+      - "\u559C\u3073"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - yuki/001_namikawa_happy.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 3
+      debugIndex: 3
+      strings:
+      - 
+      - 
+      - "\u6012\u308A"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - yuki/001_namikawa_angry.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 4
+      debugIndex: 4
+      strings:
+      - 
+      - 
+      - "\u60B2\u3057\u307F"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - yuki/001_namikawa_sad.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 5
+      debugIndex: 5
+      strings:
+      - 
+      - 
+      - "\u7167\u308C"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - yuki/001_namikawa_tere.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 6
+      debugIndex: 6
+      strings:
+      - "\u30DE\u30CD\u30FC\u30B8\u30E3\u30FC"
+      - 
+      - "\u901A\u5E38"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - editor/normal.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    name: Assets/test260903/chapter0101.xlsx:Character
     type: 1
-    textLength: 154
+    textLength: 327
     headerRow: 0
     sourceAssetInEditor: {fileID: 0}
   - rows:
@@ -71,9 +167,195 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    name: Assets/test260903/test260903.xls:Texture
+    - rowIndex: 1
+      debugIndex: 1
+      strings:
+      - "\u80CC\u666F\uFF1A\u9ED2"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - black.jpg
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 2
+      debugIndex: 2
+      strings:
+      - "\u80CC\u666F\uFF1A\u767D"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - white.jpg
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 3
+      debugIndex: 3
+      strings:
+      - "\u80CC\u666F\uFF1A\u901A\u5B66\u8DEF"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - tsugakuro.jpg
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 4
+      debugIndex: 4
+      strings:
+      - "\u80CC\u666F\uFF1A\u591C\u306E\u30D5\u30A1\u30DF\u30EC\u30B9"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - familes_night.jpg
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 5
+      debugIndex: 5
+      strings:
+      - "\u80CC\u666F\uFF1A\u7537\u306E\u5B50\u306E\u90E8\u5C4B"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - mens_room.jpg
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 6
+      debugIndex: 6
+      strings:
+      - "\u80CC\u666F\uFF1A\u90FD\u4F1A\u306E\u8857\u4E26\u307F"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - city.jpg
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 7
+      debugIndex: 7
+      strings:
+      - "\u80CC\u666F\uFF1A\u30C0\u30A4\u30CB\u30F3\u30B0\u30EB\u30FC\u30E0"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - home_room_dining.jpg
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 8
+      debugIndex: 8
+      strings:
+      - "\u80CC\u666F\uFF1A\u30C6\u30EC\u30D3"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - TV.jpg
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 9
+      debugIndex: 9
+      strings:
+      - "\u80CC\u666F\uFF1A\u30DB\u30C6\u30EB\u306E\u30A8\u30F3\u30C8\u30E9\u30F3\u30B9"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - hotel_entrance.jpg
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 10
+      debugIndex: 10
+      strings:
+      - "\u80CC\u666F\uFF1A\u30DB\u30C6\u30EB\u306E\u30ED\u30D3\u30FC"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - hotel_robby.jpg
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 11
+      debugIndex: 11
+      strings:
+      - "\u80CC\u666F\uFF1A\u5915\u713C\u3051\u306E\u6559\u5BA4"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - room.jpg
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 12
+      debugIndex: 12
+      strings: []
+      isEmpty: 1
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 13
+      debugIndex: 13
+      strings:
+      - "\u4E00\u679A\u7D75"
+      - Event
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - event_001.jpg
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    name: Assets/test260903/chapter0101.xlsx:Texture
     type: 1
-    textLength: 112
+    textLength: 382
     headerRow: 0
     sourceAssetInEditor: {fileID: 0}
   - rows:
@@ -85,7 +367,7 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    name: Assets/test260903/test260903.xls:Particle
+    name: Assets/test260903/chapter0101.xlsx:Particle
     type: 1
     textLength: 13
     headerRow: 0
@@ -114,9 +396,42 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    name: Assets/test260903/test260903.xls:Layer
+    - rowIndex: 1
+      debugIndex: 1
+      strings:
+      - "\u30AD\u30E3\u30E9\u4E2D\u592E"
+      - Character
+      - 0
+      - 0
+      - 200
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 2
+      debugIndex: 2
+      strings:
+      - "\u30AD\u30E3\u30E9\u5DE6"
+      - Character
+      - -250
+      - 0
+      - 190
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 3
+      debugIndex: 3
+      strings:
+      - "\u30AD\u30E3\u30E9\u53F3"
+      - Character
+      - 250
+      - 0
+      - 190
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    name: Assets/test260903/chapter0101.xlsx:Layer
     type: 1
-    textLength: 109
+    textLength: 169
     headerRow: 0
     sourceAssetInEditor: {fileID: 0}
   - rows:
@@ -141,7 +456,7 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    name: Assets/test260903/test260903.xls:EyeBlink
+    name: Assets/test260903/chapter0101.xlsx:EyeBlink
     type: 1
     textLength: 112
     headerRow: 0
@@ -168,7 +483,7 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    name: Assets/test260903/test260903.xls:LipSynch
+    name: Assets/test260903/chapter0101.xlsx:LipSynch
     type: 1
     textLength: 106
     headerRow: 0
@@ -186,7 +501,7 @@ MonoBehaviour:
       strings:
       - Time
       - 0
-      - .5
+      - 0.5
       - 1
       - 1.5
       - 2
@@ -233,7 +548,7 @@ MonoBehaviour:
       debugIndex: 5
       strings:
       - ScaleX
-      - .2
+      - 0.2
       - 1.2
       - 1
       - 1
@@ -245,7 +560,7 @@ MonoBehaviour:
       debugIndex: 6
       strings:
       - ScaleY
-      - .2
+      - 0.2
       - 1.2
       - 1
       - 1
@@ -265,9 +580,9 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    name: Assets/test260903/test260903.xls:Animation
+    name: Assets/test260903/chapter0101.xlsx:Animation
     type: 1
-    textLength: 93
+    textLength: 96
     headerRow: 0
     sourceAssetInEditor: {fileID: 0}
   - rows:
@@ -283,9 +598,119 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    name: Assets/test260903/test260903.xls:Sound
+    - rowIndex: 1
+      debugIndex: 1
+      strings:
+      - BGM1
+      - "\u30C9\u30EA\u30FC\u30DF\u30F3"
+      - Bgm
+      - dreaming.ogg
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 2
+      debugIndex: 2
+      strings:
+      - BGM2
+      - "\u4E0D\u53EF\u601D\u8B70\u8A71"
+      - Bgm
+      - hukashigibanashi.ogg
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 3
+      debugIndex: 3
+      strings:
+      - BGM3
+      - "\u5909\u308F\u308A\u3086\u304F\u8857"
+      - Bgm
+      - kawariyukumachi.ogg
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 4
+      debugIndex: 4
+      strings:
+      - BGM4
+      - "\u5E0C\u671B\u3092\u7A7A\u3078"
+      - Bgm
+      - kibouwosorahe.ogg
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 5
+      debugIndex: 5
+      strings:
+      - BGM5
+      - music
+      - Bgm
+      - music.ogg
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 6
+      debugIndex: 6
+      strings:
+      - BGM6
+      - "\u590F\u306E\u7720\u308A"
+      - Bgm
+      - natsunonemuri.ogg
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 7
+      debugIndex: 7
+      strings:
+      - BGM7
+      - "\u30D4\u30AF\u30CB\u30C3\u30AF\u306B\u884C\u3053\u3046"
+      - Bgm
+      - pikunikkuniikou.ogg
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 8
+      debugIndex: 8
+      strings:
+      - BGM8
+      - "\u7DDA\u9999\u82B1\u706B"
+      - Bgm
+      - senkouhanabi.ogg
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 9
+      debugIndex: 9
+      strings:
+      - "\u96FB\u8A71"
+      - 
+      - Se
+      - fon001.ogg
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 10
+      debugIndex: 10
+      strings:
+      - "\u8D70\u308B\u8DB3\u97F3"
+      - 
+      - Se
+      - Leather_shoes_run.ogg
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 11
+      debugIndex: 11
+      strings:
+      - "\u6B69\u304F\u8DB3\u97F3"
+      - 
+      - Se
+      - Leather_shoes_walk.ogg
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    name: Assets/test260903/chapter0101.xlsx:Sound
     type: 1
-    textLength: 37
+    textLength: 334
     headerRow: 0
     sourceAssetInEditor: {fileID: 0}
   - rows:
@@ -299,7 +724,7 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    name: Assets/test260903/test260903.xls:Param
+    name: Assets/test260903/chapter0101.xlsx:Param
     type: 1
     textLength: 22
     headerRow: 0
@@ -326,7 +751,7 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    name: Assets/test260903/test260903.xls:ParamTbl{}
+    name: Assets/test260903/chapter0101.xlsx:ParamTbl{}
     type: 1
     textLength: 16
     headerRow: 0
@@ -341,7 +766,7 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    name: Assets/test260903/test260903.xls:SceneGallery
+    name: Assets/test260903/chapter0101.xlsx:SceneGallery
     type: 1
     textLength: 27
     headerRow: 0
@@ -354,7 +779,7 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    name: Assets/test260903/test260903.xls:Localize
+    name: Assets/test260903/chapter0101.xlsx:Localize
     type: 1
     textLength: 3
     headerRow: 0
