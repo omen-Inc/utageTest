@@ -14,7 +14,25 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   chapterName: 
   dataList:
+  - {fileID: 11400000, guid: 0125684b363965e419b740eb97b901ce, type: 2}
   - {fileID: 11400000, guid: fa7a56cfbebc04af896420de7ed64033, type: 2}
+  - {fileID: 11400000, guid: fd559fff855e64d45882dc81bff7a7a2, type: 2}
+  - {fileID: 11400000, guid: 093ecb3652fc34ce1b8ddf2d6212e750, type: 2}
+  - {fileID: 11400000, guid: 45a354cdd56184744aa4a0fb73641101, type: 2}
+  - {fileID: 11400000, guid: c596a2820ec8948398c905563d3b5c53, type: 2}
+  - {fileID: 11400000, guid: 7a396743592dc463482135fea67f3342, type: 2}
+  - {fileID: 11400000, guid: 70d44f65b618f4bfa946f28d3d79e441, type: 2}
+  - {fileID: 11400000, guid: 93c93cda2e6ba4f509f9161e7b0d0b30, type: 2}
+  - {fileID: 11400000, guid: 972d9a18c38dd4e17b899b39bc14f8fd, type: 2}
+  - {fileID: 11400000, guid: 1904fece3507b4949a47b4b65252ed48, type: 2}
+  - {fileID: 11400000, guid: 43472c4c967404d9ab3e9ecb80928469, type: 2}
+  - {fileID: 11400000, guid: 38ebfb80d769244e38fada0614d78cdd, type: 2}
+  - {fileID: 11400000, guid: 1e0812e74f36f47628c8021d8b94aa45, type: 2}
+  - {fileID: 11400000, guid: 5a73a1a1cc2cd48e0951e680b704a401, type: 2}
+  - {fileID: 11400000, guid: 331e3cd4275434331977559e3d340b6a, type: 2}
+  - {fileID: 11400000, guid: 066af3039f7d046e791b6da9808df06c, type: 2}
+  - {fileID: 11400000, guid: 6c66de7fab4d14b1ca336fb32f414563, type: 2}
+  - {fileID: 11400000, guid: aec3a4cc7944e44019672e2d66c792fc, type: 2}
   settingList:
   - rows:
     - rowIndex: 0
@@ -139,7 +157,7 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    name: Assets/test260903/chapter0101.xlsx:Character
+    name: Assets/test260903/test260903.xlsx:Character
     type: 1
     textLength: 327
     headerRow: 0
@@ -353,9 +371,285 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    name: Assets/test260903/chapter0101.xlsx:Texture
+    - rowIndex: 14
+      debugIndex: 14
+      strings: []
+      isEmpty: 1
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 15
+      debugIndex: 15
+      strings:
+      - "\u30BF\u30A4\u30C8\u30EB\uFF1AChapter1-1"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - title_chapter0101.jpg
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 16
+      debugIndex: 16
+      strings:
+      - "\u30BF\u30A4\u30C8\u30EB\uFF1AChapter1-2"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - title_chapter0102.jpg
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 17
+      debugIndex: 17
+      strings:
+      - "\u30BF\u30A4\u30C8\u30EB\uFF1AChapter1-3"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - title_chapter0103.jpg
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 18
+      debugIndex: 18
+      strings:
+      - "\u30BF\u30A4\u30C8\u30EB\uFF1AChapter1-4"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - title_chapter0104.jpg
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 19
+      debugIndex: 19
+      strings:
+      - "\u30BF\u30A4\u30C8\u30EB\uFF1AChapter1-5"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - title_chapter0105.jpg
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 20
+      debugIndex: 20
+      strings:
+      - "\u30BF\u30A4\u30C8\u30EB\uFF1AChapter1-6"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - title_chapter0106.jpg
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 21
+      debugIndex: 21
+      strings:
+      - "\u30BF\u30A4\u30C8\u30EB\uFF1AChapter2-1"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - title_chapter0201.jpg
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 22
+      debugIndex: 22
+      strings:
+      - "\u30BF\u30A4\u30C8\u30EB\uFF1AChapter2-2"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - title_chapter0202.jpg
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 23
+      debugIndex: 23
+      strings:
+      - "\u30BF\u30A4\u30C8\u30EB\uFF1AChapter2-3"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - title_chapter0203.jpg
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 24
+      debugIndex: 24
+      strings:
+      - "\u30BF\u30A4\u30C8\u30EB\uFF1AChapter2-4"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - title_chapter0204.jpg
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 25
+      debugIndex: 25
+      strings:
+      - "\u30BF\u30A4\u30C8\u30EB\uFF1AChapter2-5"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - title_chapter0205.jpg
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 26
+      debugIndex: 26
+      strings:
+      - "\u30BF\u30A4\u30C8\u30EB\uFF1AChapter2-6"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - title_chapter0206.jpg
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 27
+      debugIndex: 27
+      strings:
+      - "\u30BF\u30A4\u30C8\u30EB\uFF1AChapter3-1"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - title_chapter0301.jpg
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 28
+      debugIndex: 28
+      strings:
+      - "\u30BF\u30A4\u30C8\u30EB\uFF1AChapter3-2"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - title_chapter0302.jpg
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 29
+      debugIndex: 29
+      strings:
+      - "\u30BF\u30A4\u30C8\u30EB\uFF1AChapter3-3"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - title_chapter0303.jpg
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 30
+      debugIndex: 30
+      strings:
+      - "\u30BF\u30A4\u30C8\u30EB\uFF1AChapter3-4"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - title_chapter0304.jpg
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 31
+      debugIndex: 31
+      strings:
+      - "\u30BF\u30A4\u30C8\u30EB\uFF1AChapter3-5"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - title_chapter0305.jpg
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 32
+      debugIndex: 32
+      strings:
+      - "\u30BF\u30A4\u30C8\u30EB\uFF1AChapter3-6"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - title_chapter0306.jpg
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    name: Assets/test260903/test260903.xlsx:Texture
     type: 1
-    textLength: 382
+    textLength: 1066
     headerRow: 0
     sourceAssetInEditor: {fileID: 0}
   - rows:
@@ -367,7 +661,7 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    name: Assets/test260903/chapter0101.xlsx:Particle
+    name: Assets/test260903/test260903.xlsx:Particle
     type: 1
     textLength: 13
     headerRow: 0
@@ -429,7 +723,7 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    name: Assets/test260903/chapter0101.xlsx:Layer
+    name: Assets/test260903/test260903.xlsx:Layer
     type: 1
     textLength: 169
     headerRow: 0
@@ -456,7 +750,7 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    name: Assets/test260903/chapter0101.xlsx:EyeBlink
+    name: Assets/test260903/test260903.xlsx:EyeBlink
     type: 1
     textLength: 112
     headerRow: 0
@@ -483,7 +777,7 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    name: Assets/test260903/chapter0101.xlsx:LipSynch
+    name: Assets/test260903/test260903.xlsx:LipSynch
     type: 1
     textLength: 106
     headerRow: 0
@@ -580,7 +874,7 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    name: Assets/test260903/chapter0101.xlsx:Animation
+    name: Assets/test260903/test260903.xlsx:Animation
     type: 1
     textLength: 96
     headerRow: 0
@@ -708,7 +1002,7 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    name: Assets/test260903/chapter0101.xlsx:Sound
+    name: Assets/test260903/test260903.xlsx:Sound
     type: 1
     textLength: 334
     headerRow: 0
@@ -724,7 +1018,7 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    name: Assets/test260903/chapter0101.xlsx:Param
+    name: Assets/test260903/test260903.xlsx:Param
     type: 1
     textLength: 22
     headerRow: 0
@@ -751,7 +1045,7 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    name: Assets/test260903/chapter0101.xlsx:ParamTbl{}
+    name: Assets/test260903/test260903.xlsx:ParamTbl{}
     type: 1
     textLength: 16
     headerRow: 0
@@ -766,7 +1060,7 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    name: Assets/test260903/chapter0101.xlsx:SceneGallery
+    name: Assets/test260903/test260903.xlsx:SceneGallery
     type: 1
     textLength: 27
     headerRow: 0
@@ -779,7 +1073,7 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    name: Assets/test260903/chapter0101.xlsx:Localize
+    name: Assets/test260903/test260903.xlsx:Localize
     type: 1
     textLength: 3
     headerRow: 0
