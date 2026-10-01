@@ -16,7 +16,25 @@ MonoBehaviour:
   chapterDataList:
   - chapterName: Boot
     excelList:
+    - {fileID: 102900000, guid: 062ed1ba7658f485c995903babd426e0, type: 3}
     - {fileID: 102900000, guid: 08797a332167145b99af4cc0ca917dca, type: 3}
+    - {fileID: 102900000, guid: 67c9b7aef112d4b50a7afe25638aa2d3, type: 3}
+    - {fileID: 102900000, guid: 824b9c8a0c565454a8cb8354da8b9502, type: 3}
+    - {fileID: 102900000, guid: 7fd15419cebd341eca1af8e30931ddb8, type: 3}
+    - {fileID: 102900000, guid: 1599edb15c20f410abf753b27740befc, type: 3}
+    - {fileID: 102900000, guid: 7dac365ace39645dfabc471f9ec19b87, type: 3}
+    - {fileID: 102900000, guid: 6ce368aa00d594449a21589dde51e8e9, type: 3}
+    - {fileID: 102900000, guid: 8d8e8983eb954461aa0157ab29e4cf43, type: 3}
+    - {fileID: 102900000, guid: 68e528b1f17a84acd8093a4ef8d1c0b1, type: 3}
+    - {fileID: 102900000, guid: 6fe8e9ce7f8704a15aa5ff5ed544967b, type: 3}
+    - {fileID: 102900000, guid: dab861e91ba9d4376abc7d782ed5a83e, type: 3}
+    - {fileID: 102900000, guid: e4ecc8c57f2274c66a893be465b0bde8, type: 3}
+    - {fileID: 102900000, guid: 31b0ddec8caba44aa9d8bc355fd647ff, type: 3}
+    - {fileID: 102900000, guid: 09fbe4aa6d1ea4a388147e7499cb5e44, type: 3}
+    - {fileID: 102900000, guid: ddb03266785674ef884e7400d93871cf, type: 3}
+    - {fileID: 102900000, guid: af3d1648633804929aeadc6b1a4e8e91, type: 3}
+    - {fileID: 102900000, guid: 13c4e35b4310c4b119d5ac11572d8758, type: 3}
+    - {fileID: 102900000, guid: a0af5a60cff904b1e912cb767c2d7053, type: 3}
     excelDir: {fileID: 0}
   checkWaitType: 0
   checkWhiteSpaceEndOfCell: 1
