@@ -983,9 +983,19 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
+    - rowIndex: 12
+      debugIndex: 12
+      strings:
+      - "\u5012\u308C\u308B\u97F3"
+      - 
+      - Se
+      - fall.mp3
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
     name: Assets/test260903/test260903.xlsx:Sound
     type: 1
-    textLength: 334
+    textLength: 348
     headerRow: 0
     sourceAssetInEditor: {fileID: 0}
   - rows:
