@@ -99,11 +99,8 @@ MonoBehaviour:
     - rowIndex: 5
       debugIndex: 5
       strings:
-<<<<<<< HEAD
-=======
       - Bg
       - "\u80CC\u666F\uFF1A\u7537\u306E\u5B50\u306E\u90E8\u5C4B"
->>>>>>> pr/1
       - 
       - 
       - 
@@ -112,11 +109,6 @@ MonoBehaviour:
       - 
       - 
       - 
-<<<<<<< HEAD
-      - "Chapter1-3\u3067\u3059"
-      - 
-=======
->>>>>>> pr/1
       - 
       isEmpty: 0
       isCommentOut: 0
@@ -124,17 +116,6 @@ MonoBehaviour:
     - rowIndex: 6
       debugIndex: 6
       strings:
-<<<<<<< HEAD
-      - Jump
-      - '*chapter0104_Start'
-      - 
-      - 
-      - 
-      - 
-      - 
-      - 
-      - 
-=======
       - Bgm
       - BGM6
       - 
@@ -1596,17 +1577,12 @@ MonoBehaviour:
       strings:
       - Jump
       - '*chapter0104_Start'
->>>>>>> pr/1
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
     name: Assets/test260903/chapter0103.xlsx:chapter0103
     type: 1
-<<<<<<< HEAD
-    textLength: 150
-=======
     textLength: 2554
->>>>>>> pr/1
     headerRow: 0
     sourceAssetInEditor: {fileID: 0}
     entityIndexTbl: 
@@ -1697,11 +1673,8 @@ MonoBehaviour:
     - rowIndex: 5
       debugIndex: 5
       strings:
-<<<<<<< HEAD
-=======
       - Bg
       - "\u80CC\u666F\uFF1A\u7537\u306E\u5B50\u306E\u90E8\u5C4B"
->>>>>>> pr/1
       - 
       - 
       - 
@@ -1710,11 +1683,6 @@ MonoBehaviour:
       - 
       - 
       - 
-<<<<<<< HEAD
-      - "Chapter1-3\u3067\u3059"
-      - 
-=======
->>>>>>> pr/1
       - 
       isEmpty: 0
       isCommentOut: 0
@@ -1722,17 +1690,6 @@ MonoBehaviour:
     - rowIndex: 6
       debugIndex: 6
       strings:
-<<<<<<< HEAD
-      - Jump
-      - '*chapter0104_Start'
-      - 
-      - 
-      - 
-      - 
-      - 
-      - 
-      - 
-=======
       - Bgm
       - BGM6
       - 
@@ -4039,16 +3996,11 @@ MonoBehaviour:
       strings:
       - Jump
       - '*chapter0104_Start'
->>>>>>> pr/1
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
     name: Assets/test260903/chapter0103.xlsx:chapter0103
     type: 1
-<<<<<<< HEAD
-    textLength: 150
-=======
     textLength: 2554
->>>>>>> pr/1
     headerRow: 0
     sourceAssetInEditor: {fileID: 0}

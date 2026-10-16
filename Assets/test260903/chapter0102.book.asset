@@ -99,11 +99,8 @@ MonoBehaviour:
     - rowIndex: 5
       debugIndex: 5
       strings:
-<<<<<<< HEAD
-=======
       - Bg
       - "\u80CC\u666F\uFF1A\u591C\u306E\u30D5\u30A1\u30DF\u30EC\u30B9"
->>>>>>> pr/1
       - 
       - 
       - 
@@ -112,11 +109,6 @@ MonoBehaviour:
       - 
       - 
       - 
-<<<<<<< HEAD
-      - "Chapter1-2\u3067\u3059"
-      - 
-=======
->>>>>>> pr/1
       - 
       isEmpty: 0
       isCommentOut: 0
@@ -124,8 +116,6 @@ MonoBehaviour:
     - rowIndex: 6
       debugIndex: 6
       strings:
-<<<<<<< HEAD
-=======
       - Bgm
       - BGM3
       - 
@@ -1547,7 +1537,6 @@ MonoBehaviour:
     - rowIndex: 100
       debugIndex: 101
       strings:
->>>>>>> pr/1
       - Jump
       - '*chapter0103_Start'
       - 
@@ -1562,11 +1551,7 @@ MonoBehaviour:
       debugInfo: 
     name: Assets/test260903/chapter0102.xlsx:chapter0102
     type: 1
-<<<<<<< HEAD
-    textLength: 150
-=======
     textLength: 2721
->>>>>>> pr/1
     headerRow: 0
     sourceAssetInEditor: {fileID: 0}
     entityIndexTbl: 
@@ -1657,11 +1642,8 @@ MonoBehaviour:
     - rowIndex: 5
       debugIndex: 5
       strings:
-<<<<<<< HEAD
-=======
       - Bg
       - "\u80CC\u666F\uFF1A\u591C\u306E\u30D5\u30A1\u30DF\u30EC\u30B9"
->>>>>>> pr/1
       - 
       - 
       - 
@@ -1670,11 +1652,6 @@ MonoBehaviour:
       - 
       - 
       - 
-<<<<<<< HEAD
-      - "Chapter1-2\u3067\u3059"
-      - 
-=======
->>>>>>> pr/1
       - 
       isEmpty: 0
       isCommentOut: 0
@@ -1682,8 +1659,6 @@ MonoBehaviour:
     - rowIndex: 6
       debugIndex: 6
       strings:
-<<<<<<< HEAD
-=======
       - Bgm
       - BGM3
       - 
@@ -3120,7 +3095,6 @@ MonoBehaviour:
     - rowIndex: 101
       debugIndex: 101
       strings:
->>>>>>> pr/1
       - Jump
       - '*chapter0103_Start'
       - 
@@ -3135,10 +3109,6 @@ MonoBehaviour:
       debugInfo: 
     name: Assets/test260903/chapter0102.xlsx:chapter0102
     type: 1
-<<<<<<< HEAD
-    textLength: 150
-=======
     textLength: 2721
->>>>>>> pr/1
     headerRow: 0
     sourceAssetInEditor: {fileID: 0}
