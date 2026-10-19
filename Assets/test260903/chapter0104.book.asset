@@ -1078,7 +1078,7 @@ MonoBehaviour:
       strings:
       - 
       - "\u6D6A\u5DDD\u6709\u5E0C"
-      - "\u901A\u5E38"
+      - "\u60B2\u3057\u307F"
       - 
       - 
       - 
@@ -1093,7 +1093,7 @@ MonoBehaviour:
       strings:
       - 
       - "\u6D6A\u5DDD\u6709\u5E0C"
-      - "\u901A\u5E38"
+      - "\u60B2\u3057\u307F"
       - 
       - 
       - 
@@ -1108,7 +1108,7 @@ MonoBehaviour:
       strings:
       - 
       - "\u6D6A\u5DDD\u6709\u5E0C"
-      - "\u901A\u5E38"
+      - "\u60B2\u3057\u307F"
       - 
       - 
       - 
@@ -1123,7 +1123,7 @@ MonoBehaviour:
       strings:
       - 
       - "\u6D6A\u5DDD\u6709\u5E0C"
-      - "\u901A\u5E38"
+      - "\u60B2\u3057\u307F"
       - 
       - 
       - 
@@ -1138,7 +1138,7 @@ MonoBehaviour:
       strings:
       - 
       - "\u6D6A\u5DDD\u6709\u5E0C"
-      - "\u901A\u5E38"
+      - "\u60B2\u3057\u307F"
       - 
       - 
       - 
@@ -1289,7 +1289,7 @@ MonoBehaviour:
       strings:
       - 
       - "\u6D6A\u5DDD\u6709\u5E0C"
-      - "\u901A\u5E38"
+      - "\u60B2\u3057\u307F"
       - 
       - 
       - 
@@ -1428,7 +1428,7 @@ MonoBehaviour:
       strings:
       - 
       - "\u6D6A\u5DDD\u6709\u5E0C"
-      - "\u901A\u5E38"
+      - "\u60B2\u3057\u307F"
       - "\u30AD\u30E3\u30E9\u53F3"
       - 
       - 
@@ -1488,7 +1488,7 @@ MonoBehaviour:
       strings:
       - 
       - "\u6D6A\u5DDD\u6709\u5E0C"
-      - "\u901A\u5E38"
+      - "\u60B2\u3057\u307F"
       - "\u30AD\u30E3\u30E9\u53F3"
       - 
       - 
@@ -1533,7 +1533,7 @@ MonoBehaviour:
       strings:
       - 
       - "\u6D6A\u5DDD\u6709\u5E0C"
-      - "\u901A\u5E38"
+      - "\u60B2\u3057\u307F"
       - "\u30AD\u30E3\u30E9\u53F3"
       - 
       - 
@@ -1869,7 +1869,7 @@ MonoBehaviour:
       debugInfo: 
     name: Assets/test260903/chapter0104.xlsx:chapter0104
     type: 1
-    textLength: 2963
+    textLength: 2972
     headerRow: 0
     sourceAssetInEditor: {fileID: 0}
     entityIndexTbl: 
@@ -2954,7 +2954,7 @@ MonoBehaviour:
       strings:
       - 
       - "\u6D6A\u5DDD\u6709\u5E0C"
-      - "\u901A\u5E38"
+      - "\u60B2\u3057\u307F"
       - 
       - 
       - 
@@ -2969,7 +2969,7 @@ MonoBehaviour:
       strings:
       - 
       - "\u6D6A\u5DDD\u6709\u5E0C"
-      - "\u901A\u5E38"
+      - "\u60B2\u3057\u307F"
       - 
       - 
       - 
@@ -2984,7 +2984,7 @@ MonoBehaviour:
       strings:
       - 
       - "\u6D6A\u5DDD\u6709\u5E0C"
-      - "\u901A\u5E38"
+      - "\u60B2\u3057\u307F"
       - 
       - 
       - 
@@ -2999,7 +2999,7 @@ MonoBehaviour:
       strings:
       - 
       - "\u6D6A\u5DDD\u6709\u5E0C"
-      - "\u901A\u5E38"
+      - "\u60B2\u3057\u307F"
       - 
       - 
       - 
@@ -3014,7 +3014,7 @@ MonoBehaviour:
       strings:
       - 
       - "\u6D6A\u5DDD\u6709\u5E0C"
-      - "\u901A\u5E38"
+      - "\u60B2\u3057\u307F"
       - 
       - 
       - 
@@ -3165,7 +3165,7 @@ MonoBehaviour:
       strings:
       - 
       - "\u6D6A\u5DDD\u6709\u5E0C"
-      - "\u901A\u5E38"
+      - "\u60B2\u3057\u307F"
       - 
       - 
       - 
@@ -3304,7 +3304,7 @@ MonoBehaviour:
       strings:
       - 
       - "\u6D6A\u5DDD\u6709\u5E0C"
-      - "\u901A\u5E38"
+      - "\u60B2\u3057\u307F"
       - "\u30AD\u30E3\u30E9\u53F3"
       - 
       - 
@@ -3364,7 +3364,7 @@ MonoBehaviour:
       strings:
       - 
       - "\u6D6A\u5DDD\u6709\u5E0C"
-      - "\u901A\u5E38"
+      - "\u60B2\u3057\u307F"
       - "\u30AD\u30E3\u30E9\u53F3"
       - 
       - 
@@ -3409,7 +3409,7 @@ MonoBehaviour:
       strings:
       - 
       - "\u6D6A\u5DDD\u6709\u5E0C"
-      - "\u901A\u5E38"
+      - "\u60B2\u3057\u307F"
       - "\u30AD\u30E3\u30E9\u53F3"
       - 
       - 
@@ -3914,6 +3914,6 @@ MonoBehaviour:
       debugInfo: 
     name: Assets/test260903/chapter0104.xlsx:chapter0104
     type: 1
-    textLength: 2963
+    textLength: 2972
     headerRow: 0
     sourceAssetInEditor: {fileID: 0}

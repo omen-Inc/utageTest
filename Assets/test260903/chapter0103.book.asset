@@ -347,9 +347,7 @@ MonoBehaviour:
       debugIndex: 21
       strings:
       - FadeIn
-      - 'black
-
-'
+      - black
       - 
       - 
       - 
@@ -410,7 +408,7 @@ MonoBehaviour:
       strings:
       - 
       - "\u6D6A\u5DDD\u6709\u5E0C"
-      - "\u901A\u5E38"
+      - "\u559C\u3073"
       - 
       - 
       - 
@@ -487,7 +485,7 @@ MonoBehaviour:
       strings:
       - 
       - "\u6D6A\u5DDD\u6709\u5E0C"
-      - "\u901A\u5E38"
+      - "\u559C\u3073"
       - 
       - 
       - 
@@ -624,7 +622,7 @@ MonoBehaviour:
       strings:
       - 
       - "\u6D6A\u5DDD\u6709\u5E0C"
-      - "\u901A\u5E38"
+      - "\u559C\u3073"
       - 
       - 
       - 
@@ -729,7 +727,7 @@ MonoBehaviour:
       strings:
       - 
       - "\u6D6A\u5DDD\u6709\u5E0C"
-      - "\u901A\u5E38"
+      - "\u7167\u308C"
       - 
       - 
       - 
@@ -790,7 +788,7 @@ MonoBehaviour:
       strings:
       - 
       - "\u6D6A\u5DDD\u6709\u5E0C"
-      - "\u901A\u5E38"
+      - "\u60B2\u3057\u307F"
       - 
       - 
       - 
@@ -805,7 +803,7 @@ MonoBehaviour:
       strings:
       - 
       - "\u6D6A\u5DDD\u6709\u5E0C"
-      - "\u901A\u5E38"
+      - "\u60B2\u3057\u307F"
       - 
       - 
       - 
@@ -884,7 +882,7 @@ MonoBehaviour:
       strings:
       - 
       - "\u6D6A\u5DDD\u6709\u5E0C"
-      - "\u901A\u5E38"
+      - "\u6012\u308A"
       - 
       - 
       - 
@@ -959,7 +957,7 @@ MonoBehaviour:
       strings:
       - 
       - "\u6D6A\u5DDD\u6709\u5E0C"
-      - "\u901A\u5E38"
+      - "\u6012\u308A"
       - 
       - 
       - 
@@ -1064,7 +1062,7 @@ MonoBehaviour:
       strings:
       - 
       - "\u6D6A\u5DDD\u6709\u5E0C"
-      - "\u901A\u5E38"
+      - "\u559C\u3073"
       - 
       - 
       - 
@@ -1214,7 +1212,7 @@ MonoBehaviour:
       strings:
       - 
       - "\u6D6A\u5DDD\u6709\u5E0C"
-      - "\u901A\u5E38"
+      - "\u559C\u3073"
       - 
       - 
       - 
@@ -1244,7 +1242,7 @@ MonoBehaviour:
       strings:
       - 
       - "\u6D6A\u5DDD\u6709\u5E0C"
-      - "\u901A\u5E38"
+      - "\u559C\u3073"
       - 
       - 
       - 
@@ -1582,7 +1580,7 @@ MonoBehaviour:
       debugInfo: 
     name: Assets/test260903/chapter0103.xlsx:chapter0103
     type: 1
-    textLength: 2554
+    textLength: 2555
     headerRow: 0
     sourceAssetInEditor: {fileID: 0}
     entityIndexTbl: 
@@ -1921,9 +1919,7 @@ MonoBehaviour:
       debugIndex: 21
       strings:
       - FadeIn
-      - 'black
-
-'
+      - black
       - 
       - 
       - 
@@ -1984,7 +1980,7 @@ MonoBehaviour:
       strings:
       - 
       - "\u6D6A\u5DDD\u6709\u5E0C"
-      - "\u901A\u5E38"
+      - "\u559C\u3073"
       - 
       - 
       - 
@@ -2061,7 +2057,7 @@ MonoBehaviour:
       strings:
       - 
       - "\u6D6A\u5DDD\u6709\u5E0C"
-      - "\u901A\u5E38"
+      - "\u559C\u3073"
       - 
       - 
       - 
@@ -2198,7 +2194,7 @@ MonoBehaviour:
       strings:
       - 
       - "\u6D6A\u5DDD\u6709\u5E0C"
-      - "\u901A\u5E38"
+      - "\u559C\u3073"
       - 
       - 
       - 
@@ -2303,7 +2299,7 @@ MonoBehaviour:
       strings:
       - 
       - "\u6D6A\u5DDD\u6709\u5E0C"
-      - "\u901A\u5E38"
+      - "\u7167\u308C"
       - 
       - 
       - 
@@ -2364,7 +2360,7 @@ MonoBehaviour:
       strings:
       - 
       - "\u6D6A\u5DDD\u6709\u5E0C"
-      - "\u901A\u5E38"
+      - "\u60B2\u3057\u307F"
       - 
       - 
       - 
@@ -2379,7 +2375,7 @@ MonoBehaviour:
       strings:
       - 
       - "\u6D6A\u5DDD\u6709\u5E0C"
-      - "\u901A\u5E38"
+      - "\u60B2\u3057\u307F"
       - 
       - 
       - 
@@ -2458,7 +2454,7 @@ MonoBehaviour:
       strings:
       - 
       - "\u6D6A\u5DDD\u6709\u5E0C"
-      - "\u901A\u5E38"
+      - "\u6012\u308A"
       - 
       - 
       - 
@@ -2533,7 +2529,7 @@ MonoBehaviour:
       strings:
       - 
       - "\u6D6A\u5DDD\u6709\u5E0C"
-      - "\u901A\u5E38"
+      - "\u6012\u308A"
       - 
       - 
       - 
@@ -2638,7 +2634,7 @@ MonoBehaviour:
       strings:
       - 
       - "\u6D6A\u5DDD\u6709\u5E0C"
-      - "\u901A\u5E38"
+      - "\u559C\u3073"
       - 
       - 
       - 
@@ -2788,7 +2784,7 @@ MonoBehaviour:
       strings:
       - 
       - "\u6D6A\u5DDD\u6709\u5E0C"
-      - "\u901A\u5E38"
+      - "\u559C\u3073"
       - 
       - 
       - 
@@ -2818,7 +2814,7 @@ MonoBehaviour:
       strings:
       - 
       - "\u6D6A\u5DDD\u6709\u5E0C"
-      - "\u901A\u5E38"
+      - "\u559C\u3073"
       - 
       - 
       - 
@@ -4001,6 +3997,6 @@ MonoBehaviour:
       debugInfo: 
     name: Assets/test260903/chapter0103.xlsx:chapter0103
     type: 1
-    textLength: 2554
+    textLength: 2555
     headerRow: 0
     sourceAssetInEditor: {fileID: 0}
