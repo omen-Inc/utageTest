@@ -99,8 +99,8 @@ MonoBehaviour:
     - rowIndex: 5
       debugIndex: 5
       strings:
-      - 
-      - 
+      - Bg
+      - "\u80CC\u666F\uFF1A\u9ED2"
       - 
       - 
       - 
@@ -114,10 +114,103 @@ MonoBehaviour:
       isCommentOut: 0
       debugInfo: 
     - rowIndex: 6
-      debugIndex: 6
+      debugIndex: 7
       strings:
-      - Jump
-      - '*chapter0202_Start'
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "202X\u5E74\u3001\u4E5D\u5DDE\u5317\u90E8\u306B\u516C\u55B6\u30AB\u30B8\u30CE\u304C\u5B8C\u6210\u3002\n\u8CED\u535A\u306E\u8857\u3068\u3057\u3066\u3001\u6025\u901F\u306A\u767A\u5C55\u3092\u9042\u3052\u308B"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 7
+      debugIndex: 8
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u540C\u6642\u306B\u3001\n\u4E16\u754C\u6700\u60AA\u306E\u72AF\u7F6A\u90FD\u5E02\u306B\u306A\u3063\u305F"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 8
+      debugIndex: 9
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u73FE\u72B6\u3001\u3053\u306E\u8857\u306E\u6700\u5927\u6D3E\u95A5\u306F\u3001\n\u4E2D\u56FD\u7CFB\u30DE\u30D5\u30A3\u30A2\u306E\u300C\u767D\u86C7\u300D\u3067\u3042\u308B"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 9
+      debugIndex: 10
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u767D\u86C7\u306F\u9055\u6CD5\u306A\u5546\u58F2\u3060\u3051\u3067\u306F\u306A\u304F\u3001\n\u8868\u306E\u4ED5\u4E8B\u3082\u884C\u3063\u3066\u3044\u305F"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 10
+      debugIndex: 11
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u9AD8\u3044\u6226\u95D8\u80FD\u529B\u3092\u6301\u3064\u4EBA\u6750\u306B\u3088\u308B\u3001\n\u300C\u8981\u4EBA\u8B66\u8B77\u300D\u3067\u3042\u308B\u3002\u305D\u3057\u3066\u2026\u2026"
+      - 
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 11
+      debugIndex: 12
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u300C\u305D\u306E\u8857\u300D\u3078\u98DB\u3076\u5C11\u5E74\u304C1\u4EBA\u3002\n\u5F7C\u306F\u3072\u3068\u308A\u3001\u98DB\u884C\u6A5F\u306E\u4E2D\u3067\u8003\u3048\u3066\u3044\u305F"
+      - 
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 12
+      debugIndex: 13
+      strings:
+      - Bg
+      - "\u80CC\u666F\uFF1A\u65C5\u5BA2\u6A5F\u306E\u6A5F\u5185"
+      - 
       - 
       - 
       - 
@@ -128,9 +221,1594 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
+    - rowIndex: 13
+      debugIndex: 14
+      strings:
+      - Se
+      - "\u6A5F\u5185\u74B0\u5883\u97F3"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 14
+      debugIndex: 15
+      strings:
+      - 
+      - "\u4E3B\u4EBA\u516C"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u2026\u2026\u50D5\u306E\u4ECA\u56DE\u306E\u65C5\u306E\u76EE\u7684\u306F\u3001\n\u53D4\u7236\u3092\u8A2A\u306D\u308B\u3053\u3068\u3002\u305D\u3057\u3066\u2026\u2026"
+      - 
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 15
+      debugIndex: 16
+      strings:
+      - 
+      - "\u4E3B\u4EBA\u516C"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u7236\u3055\u3093\u304C\u7D4C\u55B6\u306B\u565B\u3093\u3067\u3044\u308B\u30AB\u30B8\u30CE\u306E\u3001\n\u65B0\u5E97\u8217\u306E\u5EFA\u8A2D\u5DE5\u4E8B\u304C\u4E88\u5B9A\u3088\u308A\u9045\u308C\u3066\u3044\u308B"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 16
+      debugIndex: 17
+      strings:
+      - 
+      - "\u4E3B\u4EBA\u516C"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u7BA1\u7406\u8005\u306E\u73FE\u5730\u652F\u793E\u9577\u2026\u2026\u50D5\u306E\u53D4\u7236\u306B\u3001\n\u9045\u5EF6\u7406\u7531\u3092\u8AAC\u660E\u3057\u3066\u3082\u3089\u3046"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 17
+      debugIndex: 18
+      strings:
+      - 
+      - "\u4E3B\u4EBA\u516C"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u50D5\u306F\u8AAC\u660E\u3092\u805E\u3044\u305F\u5F8C\u3001\u53D4\u7236\u306B\u5BFE\u3057\u3066\n\u4E88\u5B9A\u65E5\u306B\u9045\u308C\u306A\u3044\u3088\u3046\u306B\u3068\u5FF5\u3092\u62BC\u3059"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 18
+      debugIndex: 19
+      strings:
+      - 
+      - "\u4E3B\u4EBA\u516C"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u305F\u3060\u3057\u3001\u300C\u5FF5\u3092\u62BC\u3059\u300D\u3068\u8A00\u3063\u3066\u3082\u3001\n\u300C\u547D\u4EE4\u300D\u3084\u300C\u50AC\u4FC3\u300D\u306F\u3057\u3066\u306F\u3044\u3051\u306A\u3044"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 19
+      debugIndex: 20
+      strings:
+      - 
+      - "\u4E3B\u4EBA\u516C"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u3042\u304F\u307E\u3067\u89AA\u621A\u3092\u8A2A\u306D\u3066\u304D\u305F\u7525\u3068\u3057\u3066\u3001\n\u6700\u5F8C\u307E\u3067\u3001\u306B\u3053\u3084\u304B\u306B\u904E\u3054\u3059\u3093\u3060"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 20
+      debugIndex: 21
+      strings:
+      - 
+      - "\u4E3B\u4EBA\u516C"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u2026\u2026\u4F55\u3068\u3082\u56DE\u308A\u304F\u3069\u3044\u3002\n\u540C\u65CF\u4F01\u696D\u306E\u60AA\u3044\u3068\u3053\u308D\u304C\u51FA\u3066\u3044\u308B"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 21
+      debugIndex: 22
+      strings:
+      - 
+      - "\u4E3B\u4EBA\u516C"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u5DE5\u4E8B\u306E\u9045\u5EF6\u306E\u539F\u56E0\u304C\u77E5\u308A\u305F\u3044\u306A\u3089\u3001\n\u8CC7\u6599\u3092\u53D6\u308A\u5BC4\u305B\u3001\u7CBE\u67FB\u3059\u308C\u3070\u3044\u3044"
+      - 
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 22
+      debugIndex: 23
+      strings:
+      - 
+      - "\u4E3B\u4EBA\u516C"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u958B\u5E97\u4E88\u5B9A\u65E5\u306E\u6B7B\u5B88\u3082\u3001\n\u96FB\u8A71\u4E00\u672C\u3067\u547D\u4EE4\u3059\u308C\u3070\u5341\u5206\u3060\u308D\u3046"
+      - 
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 23
+      debugIndex: 24
+      strings:
+      - 
+      - "\u4E3B\u4EBA\u516C"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u3051\u308C\u3069\u7236\u3055\u3093\u306F\u3001\u3053\u306E\u300C\u50AC\u4FC3\u300D\u3092\n\u300C\u696D\u52D9\u300D\u306B\u306F\u3057\u306A\u304B\u3063\u305F"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 24
+      debugIndex: 25
+      strings:
+      - 
+      - "\u4E3B\u4EBA\u516C"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u7525\u304C\u53D4\u7236\u3092\u8A2A\u306D\u3001\u96D1\u8AC7\u3092\u3059\u308B\u4E2D\u3067\u3001\n\u65B0\u5E97\u8217\u306E\u4EF6\u306B\u3064\u3044\u3066\u89E6\u308C\u308B"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 25
+      debugIndex: 26
+      strings:
+      - 
+      - "\u4E3B\u4EBA\u516C"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u300C\u696D\u52D9\u300D\u3067\u306F\u306A\u3044\u304B\u3089\u3001\n\u516C\u5F0F\u306E\u8A18\u9332\u3082\u6B8B\u3089\u306A\u3044\u3002\u5358\u306A\u308B\u96D1\u8AC7\u3060"
+      - 
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 26
+      debugIndex: 27
+      strings:
+      - 
+      - "\u4E3B\u4EBA\u516C"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u3053\u308C\u306A\u3089\u53D4\u7236\u306E\u7D4C\u6B74\u306B\u300C\u5DE5\u4E8B\u304C\u9045\u5EF6\u3057\u3001\n\u6CE8\u610F\u3092\u53D7\u3051\u305F\u300D\u3068\u3044\u3046\u4E8B\u5B9F\u306F\u6B8B\u3089\u306A\u3044"
+      - 
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 27
+      debugIndex: 28
+      strings:
+      - 
+      - "\u4E3B\u4EBA\u516C"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u305D\u3057\u3066\u606F\u5B50\u306E\u50D5\u304C\u6D3E\u9063\u3055\u308C\u308B\u306E\u306F\u3001\n\u53D4\u7236\u306B\u5BFE\u3057\u3066\u300C\u793C\u300D\u3092\u898B\u305B\u308B\u305F\u3081\u3060"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 28
+      debugIndex: 29
+      strings:
+      - 
+      - "\u4E3B\u4EBA\u516C"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u7ACB\u5834\u306E\u3042\u308B\u4EBA\u9593\u3092\u9001\u308B\u3053\u3068\u3067\u3001\n\u53D4\u7236\u306E\u4E0B\u8ACB\u3051\u611F\u3092\u8EFD\u6E1B\u3059\u308B"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 29
+      debugIndex: 30
+      strings:
+      - 
+      - "\u4E3B\u4EBA\u516C"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u80A9\u66F8\u304D\u3060\u3051\u306A\u3089\u3001\u7236\u306F\u53D4\u7236\u3088\u308A\u4E0A\u3060\u3002\n\u3057\u304B\u3057\u3001\u8840\u7E01\u95A2\u4FC2\u306F\u7570\u306A\u308B"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 30
+      debugIndex: 31
+      strings:
+      - 
+      - "\u4E3B\u4EBA\u516C"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u53D4\u7236\u306B\u5BFE\u3057\u3066\u793C\u3092\u6B20\u3051\u3070\u3001\n\u305D\u308C\u4EE5\u5916\u306E\u89AA\u621A\u305F\u3061\u306B\u3082\u5F71\u97FF\u304C\u51FA\u308B"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 31
+      debugIndex: 32
+      strings:
+      - 
+      - "\u4E3B\u4EBA\u516C"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u3044\u308F\u3070\u3001\u7236\u304C\u53D4\u7236\u306E\u6A5F\u5ACC\u3092\u53D6\u308B\u305F\u3081\u306B\n\u50D5\u306F\u98DB\u3070\u3055\u308C\u3066\u3044\u308B\u306E\u3060"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 32
+      debugIndex: 33
+      strings:
+      - 
+      - "\u4E3B\u4EBA\u516C"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u3053\u3046\u3057\u3066\u4E8B\u5B9F\u3092\u6574\u7406\u3057\u3066\u8003\u3048\u308B\u307B\u3069\u3001\n\u4F7F\u3044\u3063\u8D70\u308A\u306E\u3088\u3046\u3067\u3001\u8179\u304C\u7ACB\u3064"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 33
+      debugIndex: 34
+      strings:
+      - 
+      - "\u4E3B\u4EBA\u516C"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u7236\u3055\u3093\u306F\u90FD\u5408\u306E\u3044\u3044\u3068\u304D\u3060\u3051\u3001\n\u50D5\u3092\u300C\u606F\u5B50\u300D\u300C\u9577\u7537\u300D\u6271\u3044\u3059\u308B"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 34
+      debugIndex: 35
+      strings:
+      - 
+      - "\u4E3B\u4EBA\u516C"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u666E\u6BB5\u306F\u300C\u524D\u59BB\u306E\u5B50\u300D\u3068\u3057\u3066\u3001\n\u5F1F\u305F\u3061\u3068\u306F\u660E\u78BA\u306B\u533A\u5225\u3057\u3066\u3044\u308B\u304F\u305B\u306B"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 35
+      debugIndex: 36
+      strings:
+      - 
+      - "\u4E3B\u4EBA\u516C"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u2026\u2026\u3044\u3084\u3001\u8003\u3048\u308B\u306E\u306F\u3084\u3081\u3088\u3046\u3002\n\u6012\u3063\u305F\u3068\u3053\u308D\u3067\u3001\u8840\u7B4B\u306F\u5909\u308F\u3089\u306A\u3044"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 36
+      debugIndex: 37
+      strings:
+      - 
+      - "\u4E3B\u4EBA\u516C"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u4ECA\u306F\u307E\u3060\u6211\u6162\u3059\u308B\u3079\u304D\u3060\u3002\n\u50D5\u306F\u307E\u306015\u6B73\u3067\u3001\u793E\u5185\u306B\u80A9\u66F8\u304D\u3082\u306A\u3044"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 37
+      debugIndex: 38
+      strings:
+      - 
+      - "\u4E3B\u4EBA\u516C"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u50D5\u304C\u91CD\u5F79\u306B\u5C31\u304F\u306E\u306F\u3001\n\u6025\u3044\u3067\u3082\u5927\u5B66\u3092\u5352\u696D\u3057\u3066\u304B\u3089\u306B\u306A\u308B"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 38
+      debugIndex: 39
+      strings:
+      - 
+      - "\u4E3B\u4EBA\u516C"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u305D\u308C\u307E\u3067\u306F\u3001\n\u3053\u3046\u3057\u305F\u5C0F\u9593\u4F7F\u3044\u306B\u5FB9\u3057\u3066\u304A\u304F\u3079\u304D\u3060"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 39
+      debugIndex: 40
+      strings:
+      - Bg
+      - "\u80CC\u666F\uFF1A\u9ED2"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 40
+      debugIndex: 41
+      strings:
+      - StopSe
+      - "\u6A5F\u5185\u74B0\u5883\u97F3"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 41
+      debugIndex: 42
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u81EA\u5C0A\u5FC3\u3068\u91CE\u671B\u306B\u6298\u308A\u5408\u3044\u3092\u3064\u3051\u308B\u3068\u3001\n\u5C11\u5E74\u306F\u77BC\u3092\u305D\u3063\u3068\u9589\u3058\u305F"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 42
+      debugIndex: 43
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u76EE\u7684\u5730\u307E\u3067\u306E\u9593\u306B\u4F59\u8A08\u306A\u3082\u306E\u3092\u2026\u2026\n\u3064\u307E\u308A\u4F55\u3082\u898B\u305F\u304F\u306A\u304B\u3063\u305F\u304B\u3089\u3060"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 43
+      debugIndex: 44
+      strings:
+      - StopBgm
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 44
+      debugIndex: 45
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u305D\u3057\u3066\u5C11\u5E74\u306F\u3001\n\u300C\u305D\u306E\u8857\u300D\u3078\u964D\u308A\u7ACB\u3063\u305F\u304C\u2026\u2026"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 45
+      debugIndex: 46
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u2026\u2026\u3048\uFF1F"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 46
+      debugIndex: 47
+      strings:
+      - Bg
+      - "\u80CC\u666F\uFF1A\u7A7A\u6E2F"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 47
+      debugIndex: 48
+      strings:
+      - 
+      - "\u9234\u91CE\u7F8E\u9234"
+      - "\u559C\u3073"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u30E8\u30B7\u30C3\uFF01\u30001\u540D\u69D8\u3001\u3054\u5230\u7740\uFF5E\u266A"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 48
+      debugIndex: 49
+      strings:
+      - 
+      - "\u9234\u91CE\u7F8E\u9234"
+      - "\u559C\u3073"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u30A2\u30BF\u30B7\u3001\n\u8B77\u885B\u306E\u9234\u91CE\u7F8E\u9234\uFF08\u3059\u305A\u306E
+        \u307F\u308C\u3044\uFF09\uFF01"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 49
+      debugIndex: 50
+      strings:
+      - 
+      - "\u9234\u91CE\u7F8E\u9234"
+      - "\u559C\u3073"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u4F59\u8A08\u306A\u771F\u4F3C\u3092\u3057\u306A\u304B\u3063\u305F\u3089\u3001\n\u541B\u306E\u5B89\u5168\u306F\u4FDD\u969C\u3057\u3088\u30FC\uFF01"
+      - 
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 50
+      debugIndex: 51
+      strings:
+      - 
+      - "\u9234\u91CE\u7F8E\u9234"
+      - "\u559C\u3073"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u9006\u306B\u3001\u4F59\u8A08\u306A\u771F\u4F3C\u3092\u3057\u3084\u304C\u3063\u305F\u3089\u3001\n\u4FDD\u969C\u306F\u4E00\u5207\u3057\u306D\u3047\uFF01\u3000\u3064\u30FC\u304B\u3067\u304D\u306D\u30FC\uFF01"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 51
+      debugIndex: 52
+      strings:
+      - 
+      - "\u9234\u91CE\u7F8E\u9234"
+      - "\u559C\u3073"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u2026\u2026\u306F\u3044\u3002\u307E\u305A\u30B3\u30B3\u307E\u3067OK\uFF1F"
+      - 
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 52
+      debugIndex: 53
+      strings:
+      - 
+      - "\u4E3B\u4EBA\u516C"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u2026\u2026\u3053\u308C\u304C\u3001\u50D5\u306E\u8B77\u885B\uFF1F"
+      - 
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 53
+      debugIndex: 54
+      strings:
+      - 
+      - "\u4E3B\u4EBA\u516C"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u78BA\u304B\u306B\u9283\u306F\u6301\u3063\u3066\u3044\u308B\u3057\u3001\n\u8089\u4F53\u3082\u51C4\u307E\u3058\u3044\u935B\u3048\u65B9\u3092\u3057\u3066\u3044\u308B\u3088\u3046\u3060"
+      - 
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 54
+      debugIndex: 55
+      strings:
+      - 
+      - "\u4E3B\u4EBA\u516C"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u3057\u304B\u3057\u2026\u2026\u3053\u3093\u306A\u30AE\u30E3\u30EB\u304C\u8B77\u885B\uFF1F\n\u5197\u8AC7\u3060\u308D\uFF1F"
+      - 
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 55
+      debugIndex: 56
+      strings:
+      - 
+      - "\u9234\u91CE\u7F8E\u9234"
+      - "\u6012\u308A"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u304A\uFF5E\uFF5E\u3044\u3001\u30AC\u30AD\u30F3\u30C1\u30E7\u304F\u3093\u3002\n\u3055\u3063\u3055\u3068\u8CEA\u554F\u306B\u7B54\u3048\u308D\u3063\u3066\u3070"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 56
+      debugIndex: 57
+      strings:
+      - 
+      - "\u9234\u91CE\u7F8E\u9234"
+      - "\u6012\u308A"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u3084\u308A\u65B9\u3092\u7406\u89E3\u3057\u305F\u304B\u3063\u3066\u805E\u3044\u3066\u3093\u306E\uFF01\nYes
+        \u304B No \u3067\u7B54\u3048\u308D\u3088"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 57
+      debugIndex: 58
+      strings:
+      - Selection
+      - "*\u9078\u629E\u80A20201-1-a"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u541B\u2026\u2026\u4F55\u306E\u5197\u8AC7\u3060\uFF1F"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 58
+      debugIndex: 59
+      strings:
+      - Selection
+      - "*\u9078\u629E\u80A20201-1-\uFF42"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u7406\u89E3\u3067\u304D\u306A\u3044"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 59
+      debugIndex: 60
+      strings:
+      - "*\u9078\u629E\u80A20201-1-a"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 60
+      debugIndex: 61
+      strings:
+      - 
+      - "\u9234\u91CE\u7F8E\u9234"
+      - "\u6012\u308A"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u306F\u3041\u2026\u2026\u3063\u305F\u304F\u3001\n\u3053\u308C\u3060\u304B\u3089\u30AC\u30AD\u306F\u5ACC\u3044\uFF01"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 61
+      debugIndex: 62
+      strings:
+      - Jump
+      - "*\u9078\u629E\u80A20201-1\u5408\u6D41"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 62
+      debugIndex: 63
+      strings:
+      - "*\u9078\u629E\u80A20201-1-\uFF42"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 63
+      debugIndex: 64
+      strings:
+      - 
+      - "\u9234\u91CE\u7F8E\u9234"
+      - "\u6012\u308A"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u30DE\u30B8\u3067\uFF1F\n\u304B\u306A\uFF5E\uFF5E\u308A\u7C21\u5358\u306B\u8AAC\u660E\u3057\u305F\u306E\u306B\uFF1F"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 64
+      debugIndex: 65
+      strings:
+      - Jump
+      - "*\u9078\u629E\u80A20201-1\u5408\u6D41"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 65
+      debugIndex: 66
+      strings:
+      - "*\u9078\u629E\u80A20201-1\u5408\u6D41"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 66
+      debugIndex: 67
+      strings:
+      - 
+      - "\u9234\u91CE\u7F8E\u9234"
+      - "\u901A\u5E38"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u307E\u3001\u5206\u304B\u3063\u3066\u306D\u30FC\u306A\u3089\u3001\n\u305D\u308C\u306F\u305D\u308C\u3067\u3044\u3044\u308F"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 67
+      debugIndex: 68
+      strings:
+      - 
+      - "\u9234\u91CE\u7F8E\u9234"
+      - "\u901A\u5E38"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u8ECA\u3067\u8A71\u305B\u3070\u3044\u3044\u304B\u3089\u3002\n\u3055\u3063\u3055\u3068\u7247\u4ED8\u3051\u305F\u3044\u304B\u3089\u3001\u4E57\u3063\u3066\u4E57\u3063\u3066"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 68
+      debugIndex: 69
+      strings:
+      - 
+      - "\u9234\u91CE\u7F8E\u9234"
+      - "\u559C\u3073"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u30A2\u30BF\u30B7\u306E\u611B\u3057\u304D\u7279\u6CE8\u30CF\u30DE\u30FC\u266A\n\u5F37\u3044\u305E\u56FA\u3044\u305E\u30AB\u30C3\u30B1\u30FC\u305E\u266A"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 69
+      debugIndex: 70
+      strings:
+      - Bg
+      - "\u80CC\u666F\uFF1A\u8ECA\u5185\uFF08\u30CF\u30DE\u30FC\uFF09"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 70
+      debugIndex: 71
+      strings:
+      - 
+      - "\u4E3B\u4EBA\u516C"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u2026\u2026\u9811\u4E08\u305D\u3046\u306A\u8ECA\u306B\u4E57\u305B\u3089\u308C\u305F"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 71
+      debugIndex: 72
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u8ECA\u306F\u3061\u3083\u3093\u3068\u8B77\u885B\u7528\u3060\u3051\u3069\u3001\n\u3084\u3063\u3071\u308A\u7D0D\u5F97\u304C\u3044\u304B\u306A\u3044"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 72
+      debugIndex: 73
+      strings:
+      - 
+      - "\u9234\u91CE\u7F8E\u9234"
+      - "\u901A\u5E38"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u30A2\u30BF\u30B7\u3092\u30B8\u30ED\u30B8\u30ED\u898B\u3066\u308B\u3051\u3069\u2026\u2026\u4F55\uFF1F\n\u3069\u3046\u304B\u3057\u305F\uFF1F\u3000\u8ECA\u306B\u9154\u3063\u305F\uFF1F"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 73
+      debugIndex: 74
+      strings:
+      - 
+      - "\u9234\u91CE\u7F8E\u9234"
+      - "\u559C\u3073"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u3042\u3063\u3001\u3082\u3057\u304B\u3057\u3066\u2026\u2026\u601D\u6625\u671F\uFF01\uFF1F\u3000\n\u6027\u306E\u82BD\u751F\u3048\uFF01\uFF1F"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 74
+      debugIndex: 75
+      strings:
+      - 
+      - "\u9234\u91CE\u7F8E\u9234"
+      - "\u559C\u3073"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u30C7\u30AB\u3044\u30AB\u30B8\u30CE\u4F1A\u793E\u306E\u5FA1\u66F9\u53F8\u3063\u3066\u3001\n\u8A71\u306F\u805E\u3044\u3066\u3044\u305F\u3051\u308C\u3069\u2026\u2026\u306A\uFF5E\u3093\u3060"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 75
+      debugIndex: 76
+      strings:
+      - 
+      - "\u9234\u91CE\u7F8E\u9234"
+      - "\u559C\u3073"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u305F\u3060\u306E\u30A8\u30ED\u30AC\u30AD\u3063\u3066\u308F\u3051\u304B\uFF5E\uFF01\n\u30A2\u30CF\u30CF\u30CF\u3001\u6B8B\u5FF5\u3067\u3057\u305F\uFF01"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 76
+      debugIndex: 77
+      strings:
+      - 
+      - "\u9234\u91CE\u7F8E\u9234"
+      - "\u559C\u3073"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u30A2\u30BF\u30B7\u306F\u8B77\u885B\u3060\u304B\u3089\uFF01\n\u30A8\u30ED\u3044\u3053\u3068\u306F\u7121\u3057\uFF01\u3000OK\uFF1F"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 77
+      debugIndex: 78
+      strings:
+      - Selection
+      - "*\u9078\u629E\u80A20201-2-a"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u30D0\u30AB\u30D0\u30AB\u3057\u3044"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 78
+      debugIndex: 79
+      strings:
+      - Selection
+      - "*\u9078\u629E\u80A20201-2-b"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u767A\u60F3\u306B\u54C1\u6027\u304C\u306A\u3044"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 79
+      debugIndex: 80
+      strings:
+      - "*\u9078\u629E\u80A20201-2-a"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 80
+      debugIndex: 81
+      strings:
+      - 
+      - "\u9234\u91CE\u7F8E\u9234"
+      - "\u6012\u308A"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u300C\u30D0\u30AB\u300D\u3063\u3066\u8A00\u3063\u305F\u304B\u2026\u2026\u4E0A\u7B49\u3063\u3002\n\u30A2\u30BF\u30B7\u306B\u305D\u3093\u306A\u53E3\u3092\u5229\u304F\u3068\u306F\u306D"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 81
+      debugIndex: 82
+      strings:
+      - Jump
+      - "*\u9078\u629E\u80A20201-2\u5408\u6D41"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 82
+      debugIndex: 83
+      strings:
+      - "*\u9078\u629E\u80A20201-2-b"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 83
+      debugIndex: 84
+      strings:
+      - 
+      - "\u9234\u91CE\u7F8E\u9234"
+      - "\u6012\u308A"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u307B\u3046\u307B\u3046\u3001\u54C1\u6027\u304C\u306A\u3044\u306D\u3002\n\u306A\u308B\u307B\u3069\u306D\u3047\u2026\u2026"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 84
+      debugIndex: 85
+      strings:
+      - Jump
+      - "*\u9078\u629E\u80A20201-2\u5408\u6D41"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 85
+      debugIndex: 86
+      strings:
+      - "*\u9078\u629E\u80A20201-2\u5408\u6D41"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 86
+      debugIndex: 87
+      strings:
+      - 
+      - "\u9234\u91CE\u7F8E\u9234"
+      - "\u6012\u308A"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u30A8\u30ED\u30AC\u30AD\u3001\n\u3082\u3046\u4E00\u56DE\u3060\u3051\u30C1\u30E3\u30F3\u30B9\u3092\u3042\u3052\u308B"
+      - 
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 87
+      debugIndex: 88
+      strings:
+      - 
+      - "\u9234\u91CE\u7F8E\u9234"
+      - "\u6012\u308A"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u3055\u3063\u304D\u306E\u8CEA\u554F\u3060\u3051\u3069\u3001\n\u4ECA\u5EA6\u306F\u3061\u3083\u3093\u3068\u7B54\u3048\u3066\u306D"
+      - 
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 88
+      debugIndex: 89
+      strings:
+      - 
+      - "\u9234\u91CE\u7F8E\u9234"
+      - "\u6012\u308A"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u30A2\u30BF\u30B7\u306E\u8A00\u3046\u901A\u308A\u306B\u3057\u3066\u3002\n\u4F59\u8A08\u306A\u771F\u4F3C\u306F\u3059\u3093\u3058\u3083\u306D\u30FC\u305E"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 89
+      debugIndex: 90
+      strings:
+      - 
+      - "\u9234\u91CE\u7F8E\u9234"
+      - "\u6012\u308A"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u90AA\u9B54\u3092\u3057\u306D\u3047\u3001\u6587\u53E5\u306F\u8A00\u308F\u306D\u3047\u3001\n\u30A2\u30BF\u30B7\u306E\u8A00\u3046\u3053\u3068\u306B\u306F\u5F93\u3046"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 90
+      debugIndex: 91
+      strings:
+      - 
+      - "\u9234\u91CE\u7F8E\u9234"
+      - "\u6012\u308A"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u30A8\u30ED\u30AC\u30AD\u3001\u308F\u304B\u3063\u305F\uFF1F"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 91
+      debugIndex: 92
+      strings:
+      - Selection
+      - "*\u9078\u629E\u80A20201-3-a"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u30A8\u30ED\u30AC\u30AD\u3063\u3066\uFF1F"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 92
+      debugIndex: 93
+      strings:
+      - Selection
+      - "*\u9078\u629E\u80A20201-3-b"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u96C7\u3044\u4E3B\u306F\u50D5\u3060\u305E"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 93
+      debugIndex: 94
+      strings:
+      - "*\u9078\u629E\u80A20201-3-a"
+      - 
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 94
+      debugIndex: 95
+      strings:
+      - Jump
+      - "*\u9078\u629E\u80A20201-3\u5408\u6D41"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 95
+      debugIndex: 96
+      strings:
+      - "*\u9078\u629E\u80A20201-3-b"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 96
+      debugIndex: 97
+      strings:
+      - Jump
+      - "*\u9078\u629E\u80A20201-3\u5408\u6D41"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 97
+      debugIndex: 98
+      strings:
+      - "*\u9078\u629E\u80A20201-3\u5408\u6D41"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 98
+      debugIndex: 99
+      strings:
+      - 
+      - "\u9234\u91CE\u7F8E\u9234"
+      - "\u6012\u308A"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u306F\u3044\u3001\u30D6\u30FC\u30C3\uFF01\uFF01\uFF01"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 99
+      debugIndex: 100
+      strings:
+      - Shake
+      - Camera
+      - 
+      - x=3
+      - 
+      - 
+      - 
+      - 
+      - 
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 100
+      debugIndex: 101
+      strings:
+      - 
+      - "\u4E3B\u4EBA\u516C"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u3050\u308F\u3041\u2026\u2026\uFF01"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 101
+      debugIndex: 102
+      strings:
+      - 
+      - "\u4E3B\u4EBA\u516C"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u30A4\u30C6\u30C6\u2026\u2026\u982D\u306E\u3066\u3063\u307A\u3093\u3092\u3001\n\u30B2\u30F3\u30B3\u30C4\u3067\u601D\u3044\u5207\u308A\u6BB4\u3089\u308C\u305F"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 102
+      debugIndex: 103
+      strings:
+      - 
+      - "\u9234\u91CE\u7F8E\u9234"
+      - "\u6012\u308A"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u3061\u3083\u3093\u3068\u7B54\u3048\u308D\u3063\u3066\u306E\uFF01"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 103
+      debugIndex: 104
+      strings:
+      - 
+      - "\u9234\u91CE\u7F8E\u9234"
+      - "\u6012\u308A"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u30B7\u30C4\u30B1\u306F\u30B2\u30F3\u30B3\u30C4\u4E3B\u7FA9\u3060\u304B\u3089\uFF01\n\u3088\u304F\u8003\u3048\u308B\u3053\u3068\uFF01"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 104
+      debugIndex: 105
+      strings:
+      - Selection
+      - "*\u9078\u629E\u80A20201-4-a"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u307C\u3001\u50D5\u306F\u96C7\u3044\u4E3B\u3060\u305E"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 105
+      debugIndex: 106
+      strings:
+      - "*\u9078\u629E\u80A20201-4-a"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 106
+      debugIndex: 107
+      strings:
+      - 
+      - "\u9234\u91CE\u7F8E\u9234"
+      - "\u6012\u308A"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u3046\u308B\u305B\u30FC\u306A\uFF01\n\u3053\u3053\u3067\u306F\u30A2\u30BF\u30B7\u304C\u30EB\u30FC\u30EB\u306A\u306E\uFF01"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 107
+      debugIndex: 108
+      strings:
+      - 
+      - "\u9234\u91CE\u7F8E\u9234"
+      - "\u6012\u308A"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u3064\u30FC\u304B\u30A2\u30BF\u30B7\u306E\u65B9\u304C\u5E74\u4E0A\u3060\u3057\uFF01\n\u4EBA\u751F\u306E\u5148\u8F29\u306F\u3001\u656C\u3046\u3082\u3093\u3067\u3057\u3087\uFF01"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 108
+      debugIndex: 109
+      strings:
+      - 
+      - "\u4E3B\u4EBA\u516C"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u2026\u2026\u306A\u3093\u3060\u30B3\u30A4\u30C4\u3001\u30E1\u30C1\u30E3\u30AF\u30C1\u30E3\u3060\u3002\n\u3053\u3093\u306A\u30E4\u30C4\u304C\u8B77\u885B\u306A\u306E\u304B\uFF1F"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 109
+      debugIndex: 110
+      strings:
+      - 
+      - "\u4E3B\u4EBA\u516C"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u8B77\u885B\u306E\u304F\u305B\u306B\u3001\u50D5\u3092\u6BB4\u3063\u305F\u3002\n\u3053\u306E\u50D5\u3092\u2026\u2026"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 110
+      debugIndex: 111
+      strings:
+      - 
+      - "\u9234\u91CE\u7F8E\u9234"
+      - "\u559C\u3073"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u4E0D\u670D\u305D\u3046\u306A\u76EE\u3092\u3057\u3066\u2026\u2026\u4E0A\u7B49\u266A\n\u3082\u3046\u4E00\u767A\u30D6\u30F3\u6BB4\u3063\u3066\u3084\u308D\u3046\u304B\uFF1F"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 111
+      debugIndex: 112
+      strings:
+      - 
+      - "\u9234\u91CE\u7F8E\u9234"
+      - "\u559C\u3073"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u3072\u306D\u304F\u308C\u305F\u30A8\u30ED\u30AC\u30AD\u306E\u30B7\u30C4\u30B1\u306F\u3001\n\u547D\u4EE4\u306B\u306A\u3044\u3051\u3069\u3001\u7279\u5225\u30B5\u30FC\u30D3\u30B9\uFF01"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 112
+      debugIndex: 113
+      strings:
+      - 
+      - "\u9234\u91CE\u7F8E\u9234"
+      - "\u559C\u3073"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u30A2\u30F3\u30BF\u3092\u4F55\u767A\u3067\u3082\u30D6\u30F3\u6BB4\u3063\u3066\u3001\n\u6839\u6027\u53E9\u304D\u76F4\u3057\u3066\u3084\u308B\u3088\uFF01"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 113
+      debugIndex: 114
+      strings:
+      - 
+      - "\u4E3B\u4EBA\u516C"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u30D0\u30AB\u3067\u4F53\u7F70\u80AF\u5B9A\u8AD6\u8005\u3060\u3002\u8A71\u304C\u901A\u3058\u306A\u3044\u3002\n\u3053\u3053\u3067\u9006\u3089\u3046\u306E\u306F\u5F97\u7B56\u3058\u3083\u306A\u3044"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 114
+      debugIndex: 115
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u30D0\u30AB\u306B\u6B63\u8AD6\u306F\u901A\u3058\u306A\u3044\u304B\u3089\u3060\u3002\n\u3053\u3046\u3044\u3046\u6642\u306F\u9069\u5F53\u306B\u8A71\u3092\u9038\u3089\u3059\u3093"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 115
+      debugIndex: 116
+      strings:
+      - Selection
+      - "*\u9078\u629E\u80A20201-5-a"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u305D\u3001\u305D\u306E\u670D\u3001\u5909\u308F\u3063\u3066\u307E\u3059\u306D"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 116
+      debugIndex: 117
+      strings:
+      - "*\u9078\u629E\u80A20201-5-a"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 117
+      debugIndex: 118
+      strings:
+      - 
+      - "\u9234\u91CE\u7F8E\u9234"
+      - "\u559C\u3073"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u304A\u3063\u3001\u30A8\u30ED\u30AC\u30AD\u2026\u2026\uFF01\n\u6848\u5916\u306B\u898B\u308B\u76EE\u304C\u3042\u308B\u3058\u3083\u3093\u266A"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 118
+      debugIndex: 163
+      strings:
+      - Jump
+      - '*chapter0202_Start'
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
     name: Assets/test260903/chapter0201.xlsx:chapter0201
     type: 1
-    textLength: 150
+    textLength: 3039
     headerRow: 0
     sourceAssetInEditor: {fileID: 0}
     entityIndexTbl: 
@@ -221,8 +1899,8 @@ MonoBehaviour:
     - rowIndex: 5
       debugIndex: 5
       strings:
-      - 
-      - 
+      - Bg
+      - "\u80CC\u666F\uFF1A\u9ED2"
       - 
       - 
       - 
@@ -238,8 +1916,116 @@ MonoBehaviour:
     - rowIndex: 6
       debugIndex: 6
       strings:
-      - Jump
-      - '*chapter0202_Start'
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      isEmpty: 1
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 7
+      debugIndex: 7
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "202X\u5E74\u3001\u4E5D\u5DDE\u5317\u90E8\u306B\u516C\u55B6\u30AB\u30B8\u30CE\u304C\u5B8C\u6210\u3002\n\u8CED\u535A\u306E\u8857\u3068\u3057\u3066\u3001\u6025\u901F\u306A\u767A\u5C55\u3092\u9042\u3052\u308B"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 8
+      debugIndex: 8
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u540C\u6642\u306B\u3001\n\u4E16\u754C\u6700\u60AA\u306E\u72AF\u7F6A\u90FD\u5E02\u306B\u306A\u3063\u305F"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 9
+      debugIndex: 9
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u73FE\u72B6\u3001\u3053\u306E\u8857\u306E\u6700\u5927\u6D3E\u95A5\u306F\u3001\n\u4E2D\u56FD\u7CFB\u30DE\u30D5\u30A3\u30A2\u306E\u300C\u767D\u86C7\u300D\u3067\u3042\u308B"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 10
+      debugIndex: 10
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u767D\u86C7\u306F\u9055\u6CD5\u306A\u5546\u58F2\u3060\u3051\u3067\u306F\u306A\u304F\u3001\n\u8868\u306E\u4ED5\u4E8B\u3082\u884C\u3063\u3066\u3044\u305F"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 11
+      debugIndex: 11
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u9AD8\u3044\u6226\u95D8\u80FD\u529B\u3092\u6301\u3064\u4EBA\u6750\u306B\u3088\u308B\u3001\n\u300C\u8981\u4EBA\u8B66\u8B77\u300D\u3067\u3042\u308B\u3002\u305D\u3057\u3066\u2026\u2026"
+      - 
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 12
+      debugIndex: 12
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u300C\u305D\u306E\u8857\u300D\u3078\u98DB\u3076\u5C11\u5E74\u304C1\u4EBA\u3002\n\u5F7C\u306F\u3072\u3068\u308A\u3001\u98DB\u884C\u6A5F\u306E\u4E2D\u3067\u8003\u3048\u3066\u3044\u305F"
+      - 
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 13
+      debugIndex: 13
+      strings:
+      - Bg
+      - "\u80CC\u666F\uFF1A\u65C5\u5BA2\u6A5F\u306E\u6A5F\u5185"
+      - 
       - 
       - 
       - 
@@ -250,8 +2036,2051 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
+    - rowIndex: 14
+      debugIndex: 14
+      strings:
+      - Se
+      - "\u6A5F\u5185\u74B0\u5883\u97F3"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 15
+      debugIndex: 15
+      strings:
+      - 
+      - "\u4E3B\u4EBA\u516C"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u2026\u2026\u50D5\u306E\u4ECA\u56DE\u306E\u65C5\u306E\u76EE\u7684\u306F\u3001\n\u53D4\u7236\u3092\u8A2A\u306D\u308B\u3053\u3068\u3002\u305D\u3057\u3066\u2026\u2026"
+      - 
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 16
+      debugIndex: 16
+      strings:
+      - 
+      - "\u4E3B\u4EBA\u516C"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u7236\u3055\u3093\u304C\u7D4C\u55B6\u306B\u565B\u3093\u3067\u3044\u308B\u30AB\u30B8\u30CE\u306E\u3001\n\u65B0\u5E97\u8217\u306E\u5EFA\u8A2D\u5DE5\u4E8B\u304C\u4E88\u5B9A\u3088\u308A\u9045\u308C\u3066\u3044\u308B"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 17
+      debugIndex: 17
+      strings:
+      - 
+      - "\u4E3B\u4EBA\u516C"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u7BA1\u7406\u8005\u306E\u73FE\u5730\u652F\u793E\u9577\u2026\u2026\u50D5\u306E\u53D4\u7236\u306B\u3001\n\u9045\u5EF6\u7406\u7531\u3092\u8AAC\u660E\u3057\u3066\u3082\u3089\u3046"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 18
+      debugIndex: 18
+      strings:
+      - 
+      - "\u4E3B\u4EBA\u516C"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u50D5\u306F\u8AAC\u660E\u3092\u805E\u3044\u305F\u5F8C\u3001\u53D4\u7236\u306B\u5BFE\u3057\u3066\n\u4E88\u5B9A\u65E5\u306B\u9045\u308C\u306A\u3044\u3088\u3046\u306B\u3068\u5FF5\u3092\u62BC\u3059"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 19
+      debugIndex: 19
+      strings:
+      - 
+      - "\u4E3B\u4EBA\u516C"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u305F\u3060\u3057\u3001\u300C\u5FF5\u3092\u62BC\u3059\u300D\u3068\u8A00\u3063\u3066\u3082\u3001\n\u300C\u547D\u4EE4\u300D\u3084\u300C\u50AC\u4FC3\u300D\u306F\u3057\u3066\u306F\u3044\u3051\u306A\u3044"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 20
+      debugIndex: 20
+      strings:
+      - 
+      - "\u4E3B\u4EBA\u516C"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u3042\u304F\u307E\u3067\u89AA\u621A\u3092\u8A2A\u306D\u3066\u304D\u305F\u7525\u3068\u3057\u3066\u3001\n\u6700\u5F8C\u307E\u3067\u3001\u306B\u3053\u3084\u304B\u306B\u904E\u3054\u3059\u3093\u3060"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 21
+      debugIndex: 21
+      strings:
+      - 
+      - "\u4E3B\u4EBA\u516C"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u2026\u2026\u4F55\u3068\u3082\u56DE\u308A\u304F\u3069\u3044\u3002\n\u540C\u65CF\u4F01\u696D\u306E\u60AA\u3044\u3068\u3053\u308D\u304C\u51FA\u3066\u3044\u308B"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 22
+      debugIndex: 22
+      strings:
+      - 
+      - "\u4E3B\u4EBA\u516C"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u5DE5\u4E8B\u306E\u9045\u5EF6\u306E\u539F\u56E0\u304C\u77E5\u308A\u305F\u3044\u306A\u3089\u3001\n\u8CC7\u6599\u3092\u53D6\u308A\u5BC4\u305B\u3001\u7CBE\u67FB\u3059\u308C\u3070\u3044\u3044"
+      - 
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 23
+      debugIndex: 23
+      strings:
+      - 
+      - "\u4E3B\u4EBA\u516C"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u958B\u5E97\u4E88\u5B9A\u65E5\u306E\u6B7B\u5B88\u3082\u3001\n\u96FB\u8A71\u4E00\u672C\u3067\u547D\u4EE4\u3059\u308C\u3070\u5341\u5206\u3060\u308D\u3046"
+      - 
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 24
+      debugIndex: 24
+      strings:
+      - 
+      - "\u4E3B\u4EBA\u516C"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u3051\u308C\u3069\u7236\u3055\u3093\u306F\u3001\u3053\u306E\u300C\u50AC\u4FC3\u300D\u3092\n\u300C\u696D\u52D9\u300D\u306B\u306F\u3057\u306A\u304B\u3063\u305F"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 25
+      debugIndex: 25
+      strings:
+      - 
+      - "\u4E3B\u4EBA\u516C"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u7525\u304C\u53D4\u7236\u3092\u8A2A\u306D\u3001\u96D1\u8AC7\u3092\u3059\u308B\u4E2D\u3067\u3001\n\u65B0\u5E97\u8217\u306E\u4EF6\u306B\u3064\u3044\u3066\u89E6\u308C\u308B"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 26
+      debugIndex: 26
+      strings:
+      - 
+      - "\u4E3B\u4EBA\u516C"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u300C\u696D\u52D9\u300D\u3067\u306F\u306A\u3044\u304B\u3089\u3001\n\u516C\u5F0F\u306E\u8A18\u9332\u3082\u6B8B\u3089\u306A\u3044\u3002\u5358\u306A\u308B\u96D1\u8AC7\u3060"
+      - 
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 27
+      debugIndex: 27
+      strings:
+      - 
+      - "\u4E3B\u4EBA\u516C"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u3053\u308C\u306A\u3089\u53D4\u7236\u306E\u7D4C\u6B74\u306B\u300C\u5DE5\u4E8B\u304C\u9045\u5EF6\u3057\u3001\n\u6CE8\u610F\u3092\u53D7\u3051\u305F\u300D\u3068\u3044\u3046\u4E8B\u5B9F\u306F\u6B8B\u3089\u306A\u3044"
+      - 
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 28
+      debugIndex: 28
+      strings:
+      - 
+      - "\u4E3B\u4EBA\u516C"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u305D\u3057\u3066\u606F\u5B50\u306E\u50D5\u304C\u6D3E\u9063\u3055\u308C\u308B\u306E\u306F\u3001\n\u53D4\u7236\u306B\u5BFE\u3057\u3066\u300C\u793C\u300D\u3092\u898B\u305B\u308B\u305F\u3081\u3060"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 29
+      debugIndex: 29
+      strings:
+      - 
+      - "\u4E3B\u4EBA\u516C"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u7ACB\u5834\u306E\u3042\u308B\u4EBA\u9593\u3092\u9001\u308B\u3053\u3068\u3067\u3001\n\u53D4\u7236\u306E\u4E0B\u8ACB\u3051\u611F\u3092\u8EFD\u6E1B\u3059\u308B"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 30
+      debugIndex: 30
+      strings:
+      - 
+      - "\u4E3B\u4EBA\u516C"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u80A9\u66F8\u304D\u3060\u3051\u306A\u3089\u3001\u7236\u306F\u53D4\u7236\u3088\u308A\u4E0A\u3060\u3002\n\u3057\u304B\u3057\u3001\u8840\u7E01\u95A2\u4FC2\u306F\u7570\u306A\u308B"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 31
+      debugIndex: 31
+      strings:
+      - 
+      - "\u4E3B\u4EBA\u516C"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u53D4\u7236\u306B\u5BFE\u3057\u3066\u793C\u3092\u6B20\u3051\u3070\u3001\n\u305D\u308C\u4EE5\u5916\u306E\u89AA\u621A\u305F\u3061\u306B\u3082\u5F71\u97FF\u304C\u51FA\u308B"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 32
+      debugIndex: 32
+      strings:
+      - 
+      - "\u4E3B\u4EBA\u516C"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u3044\u308F\u3070\u3001\u7236\u304C\u53D4\u7236\u306E\u6A5F\u5ACC\u3092\u53D6\u308B\u305F\u3081\u306B\n\u50D5\u306F\u98DB\u3070\u3055\u308C\u3066\u3044\u308B\u306E\u3060"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 33
+      debugIndex: 33
+      strings:
+      - 
+      - "\u4E3B\u4EBA\u516C"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u3053\u3046\u3057\u3066\u4E8B\u5B9F\u3092\u6574\u7406\u3057\u3066\u8003\u3048\u308B\u307B\u3069\u3001\n\u4F7F\u3044\u3063\u8D70\u308A\u306E\u3088\u3046\u3067\u3001\u8179\u304C\u7ACB\u3064"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 34
+      debugIndex: 34
+      strings:
+      - 
+      - "\u4E3B\u4EBA\u516C"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u7236\u3055\u3093\u306F\u90FD\u5408\u306E\u3044\u3044\u3068\u304D\u3060\u3051\u3001\n\u50D5\u3092\u300C\u606F\u5B50\u300D\u300C\u9577\u7537\u300D\u6271\u3044\u3059\u308B"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 35
+      debugIndex: 35
+      strings:
+      - 
+      - "\u4E3B\u4EBA\u516C"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u666E\u6BB5\u306F\u300C\u524D\u59BB\u306E\u5B50\u300D\u3068\u3057\u3066\u3001\n\u5F1F\u305F\u3061\u3068\u306F\u660E\u78BA\u306B\u533A\u5225\u3057\u3066\u3044\u308B\u304F\u305B\u306B"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 36
+      debugIndex: 36
+      strings:
+      - 
+      - "\u4E3B\u4EBA\u516C"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u2026\u2026\u3044\u3084\u3001\u8003\u3048\u308B\u306E\u306F\u3084\u3081\u3088\u3046\u3002\n\u6012\u3063\u305F\u3068\u3053\u308D\u3067\u3001\u8840\u7B4B\u306F\u5909\u308F\u3089\u306A\u3044"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 37
+      debugIndex: 37
+      strings:
+      - 
+      - "\u4E3B\u4EBA\u516C"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u4ECA\u306F\u307E\u3060\u6211\u6162\u3059\u308B\u3079\u304D\u3060\u3002\n\u50D5\u306F\u307E\u306015\u6B73\u3067\u3001\u793E\u5185\u306B\u80A9\u66F8\u304D\u3082\u306A\u3044"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 38
+      debugIndex: 38
+      strings:
+      - 
+      - "\u4E3B\u4EBA\u516C"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u50D5\u304C\u91CD\u5F79\u306B\u5C31\u304F\u306E\u306F\u3001\n\u6025\u3044\u3067\u3082\u5927\u5B66\u3092\u5352\u696D\u3057\u3066\u304B\u3089\u306B\u306A\u308B"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 39
+      debugIndex: 39
+      strings:
+      - 
+      - "\u4E3B\u4EBA\u516C"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u305D\u308C\u307E\u3067\u306F\u3001\n\u3053\u3046\u3057\u305F\u5C0F\u9593\u4F7F\u3044\u306B\u5FB9\u3057\u3066\u304A\u304F\u3079\u304D\u3060"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 40
+      debugIndex: 40
+      strings:
+      - Bg
+      - "\u80CC\u666F\uFF1A\u9ED2"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 41
+      debugIndex: 41
+      strings:
+      - StopSe
+      - "\u6A5F\u5185\u74B0\u5883\u97F3"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 42
+      debugIndex: 42
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u81EA\u5C0A\u5FC3\u3068\u91CE\u671B\u306B\u6298\u308A\u5408\u3044\u3092\u3064\u3051\u308B\u3068\u3001\n\u5C11\u5E74\u306F\u77BC\u3092\u305D\u3063\u3068\u9589\u3058\u305F"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 43
+      debugIndex: 43
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u76EE\u7684\u5730\u307E\u3067\u306E\u9593\u306B\u4F59\u8A08\u306A\u3082\u306E\u3092\u2026\u2026\n\u3064\u307E\u308A\u4F55\u3082\u898B\u305F\u304F\u306A\u304B\u3063\u305F\u304B\u3089\u3060"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 44
+      debugIndex: 44
+      strings:
+      - StopBgm
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 45
+      debugIndex: 45
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u305D\u3057\u3066\u5C11\u5E74\u306F\u3001\n\u300C\u305D\u306E\u8857\u300D\u3078\u964D\u308A\u7ACB\u3063\u305F\u304C\u2026\u2026"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 46
+      debugIndex: 46
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u2026\u2026\u3048\uFF1F"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 47
+      debugIndex: 47
+      strings:
+      - Bg
+      - "\u80CC\u666F\uFF1A\u7A7A\u6E2F"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 48
+      debugIndex: 48
+      strings:
+      - 
+      - "\u9234\u91CE\u7F8E\u9234"
+      - "\u559C\u3073"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u30E8\u30B7\u30C3\uFF01\u30001\u540D\u69D8\u3001\u3054\u5230\u7740\uFF5E\u266A"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 49
+      debugIndex: 49
+      strings:
+      - 
+      - "\u9234\u91CE\u7F8E\u9234"
+      - "\u559C\u3073"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u30A2\u30BF\u30B7\u3001\n\u8B77\u885B\u306E\u9234\u91CE\u7F8E\u9234\uFF08\u3059\u305A\u306E
+        \u307F\u308C\u3044\uFF09\uFF01"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 50
+      debugIndex: 50
+      strings:
+      - 
+      - "\u9234\u91CE\u7F8E\u9234"
+      - "\u559C\u3073"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u4F59\u8A08\u306A\u771F\u4F3C\u3092\u3057\u306A\u304B\u3063\u305F\u3089\u3001\n\u541B\u306E\u5B89\u5168\u306F\u4FDD\u969C\u3057\u3088\u30FC\uFF01"
+      - 
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 51
+      debugIndex: 51
+      strings:
+      - 
+      - "\u9234\u91CE\u7F8E\u9234"
+      - "\u559C\u3073"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u9006\u306B\u3001\u4F59\u8A08\u306A\u771F\u4F3C\u3092\u3057\u3084\u304C\u3063\u305F\u3089\u3001\n\u4FDD\u969C\u306F\u4E00\u5207\u3057\u306D\u3047\uFF01\u3000\u3064\u30FC\u304B\u3067\u304D\u306D\u30FC\uFF01"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 52
+      debugIndex: 52
+      strings:
+      - 
+      - "\u9234\u91CE\u7F8E\u9234"
+      - "\u559C\u3073"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u2026\u2026\u306F\u3044\u3002\u307E\u305A\u30B3\u30B3\u307E\u3067OK\uFF1F"
+      - 
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 53
+      debugIndex: 53
+      strings:
+      - 
+      - "\u4E3B\u4EBA\u516C"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u2026\u2026\u3053\u308C\u304C\u3001\u50D5\u306E\u8B77\u885B\uFF1F"
+      - 
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 54
+      debugIndex: 54
+      strings:
+      - 
+      - "\u4E3B\u4EBA\u516C"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u78BA\u304B\u306B\u9283\u306F\u6301\u3063\u3066\u3044\u308B\u3057\u3001\n\u8089\u4F53\u3082\u51C4\u307E\u3058\u3044\u935B\u3048\u65B9\u3092\u3057\u3066\u3044\u308B\u3088\u3046\u3060"
+      - 
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 55
+      debugIndex: 55
+      strings:
+      - 
+      - "\u4E3B\u4EBA\u516C"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u3057\u304B\u3057\u2026\u2026\u3053\u3093\u306A\u30AE\u30E3\u30EB\u304C\u8B77\u885B\uFF1F\n\u5197\u8AC7\u3060\u308D\uFF1F"
+      - 
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 56
+      debugIndex: 56
+      strings:
+      - 
+      - "\u9234\u91CE\u7F8E\u9234"
+      - "\u6012\u308A"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u304A\uFF5E\uFF5E\u3044\u3001\u30AC\u30AD\u30F3\u30C1\u30E7\u304F\u3093\u3002\n\u3055\u3063\u3055\u3068\u8CEA\u554F\u306B\u7B54\u3048\u308D\u3063\u3066\u3070"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 57
+      debugIndex: 57
+      strings:
+      - 
+      - "\u9234\u91CE\u7F8E\u9234"
+      - "\u6012\u308A"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u3084\u308A\u65B9\u3092\u7406\u89E3\u3057\u305F\u304B\u3063\u3066\u805E\u3044\u3066\u3093\u306E\uFF01\nYes
+        \u304B No \u3067\u7B54\u3048\u308D\u3088"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 58
+      debugIndex: 58
+      strings:
+      - Selection
+      - "*\u9078\u629E\u80A20201-1-a"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u541B\u2026\u2026\u4F55\u306E\u5197\u8AC7\u3060\uFF1F"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 59
+      debugIndex: 59
+      strings:
+      - Selection
+      - "*\u9078\u629E\u80A20201-1-\uFF42"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u7406\u89E3\u3067\u304D\u306A\u3044"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 60
+      debugIndex: 60
+      strings:
+      - "*\u9078\u629E\u80A20201-1-a"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 61
+      debugIndex: 61
+      strings:
+      - 
+      - "\u9234\u91CE\u7F8E\u9234"
+      - "\u6012\u308A"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u306F\u3041\u2026\u2026\u3063\u305F\u304F\u3001\n\u3053\u308C\u3060\u304B\u3089\u30AC\u30AD\u306F\u5ACC\u3044\uFF01"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 62
+      debugIndex: 62
+      strings:
+      - Jump
+      - "*\u9078\u629E\u80A20201-1\u5408\u6D41"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 63
+      debugIndex: 63
+      strings:
+      - "*\u9078\u629E\u80A20201-1-\uFF42"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 64
+      debugIndex: 64
+      strings:
+      - 
+      - "\u9234\u91CE\u7F8E\u9234"
+      - "\u6012\u308A"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u30DE\u30B8\u3067\uFF1F\n\u304B\u306A\uFF5E\uFF5E\u308A\u7C21\u5358\u306B\u8AAC\u660E\u3057\u305F\u306E\u306B\uFF1F"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 65
+      debugIndex: 65
+      strings:
+      - Jump
+      - "*\u9078\u629E\u80A20201-1\u5408\u6D41"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 66
+      debugIndex: 66
+      strings:
+      - "*\u9078\u629E\u80A20201-1\u5408\u6D41"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 67
+      debugIndex: 67
+      strings:
+      - 
+      - "\u9234\u91CE\u7F8E\u9234"
+      - "\u901A\u5E38"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u307E\u3001\u5206\u304B\u3063\u3066\u306D\u30FC\u306A\u3089\u3001\n\u305D\u308C\u306F\u305D\u308C\u3067\u3044\u3044\u308F"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 68
+      debugIndex: 68
+      strings:
+      - 
+      - "\u9234\u91CE\u7F8E\u9234"
+      - "\u901A\u5E38"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u8ECA\u3067\u8A71\u305B\u3070\u3044\u3044\u304B\u3089\u3002\n\u3055\u3063\u3055\u3068\u7247\u4ED8\u3051\u305F\u3044\u304B\u3089\u3001\u4E57\u3063\u3066\u4E57\u3063\u3066"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 69
+      debugIndex: 69
+      strings:
+      - 
+      - "\u9234\u91CE\u7F8E\u9234"
+      - "\u559C\u3073"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u30A2\u30BF\u30B7\u306E\u611B\u3057\u304D\u7279\u6CE8\u30CF\u30DE\u30FC\u266A\n\u5F37\u3044\u305E\u56FA\u3044\u305E\u30AB\u30C3\u30B1\u30FC\u305E\u266A"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 70
+      debugIndex: 70
+      strings:
+      - Bg
+      - "\u80CC\u666F\uFF1A\u8ECA\u5185\uFF08\u30CF\u30DE\u30FC\uFF09"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 71
+      debugIndex: 71
+      strings:
+      - 
+      - "\u4E3B\u4EBA\u516C"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u2026\u2026\u9811\u4E08\u305D\u3046\u306A\u8ECA\u306B\u4E57\u305B\u3089\u308C\u305F"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 72
+      debugIndex: 72
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u8ECA\u306F\u3061\u3083\u3093\u3068\u8B77\u885B\u7528\u3060\u3051\u3069\u3001\n\u3084\u3063\u3071\u308A\u7D0D\u5F97\u304C\u3044\u304B\u306A\u3044"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 73
+      debugIndex: 73
+      strings:
+      - 
+      - "\u9234\u91CE\u7F8E\u9234"
+      - "\u901A\u5E38"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u30A2\u30BF\u30B7\u3092\u30B8\u30ED\u30B8\u30ED\u898B\u3066\u308B\u3051\u3069\u2026\u2026\u4F55\uFF1F\n\u3069\u3046\u304B\u3057\u305F\uFF1F\u3000\u8ECA\u306B\u9154\u3063\u305F\uFF1F"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 74
+      debugIndex: 74
+      strings:
+      - 
+      - "\u9234\u91CE\u7F8E\u9234"
+      - "\u559C\u3073"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u3042\u3063\u3001\u3082\u3057\u304B\u3057\u3066\u2026\u2026\u601D\u6625\u671F\uFF01\uFF1F\u3000\n\u6027\u306E\u82BD\u751F\u3048\uFF01\uFF1F"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 75
+      debugIndex: 75
+      strings:
+      - 
+      - "\u9234\u91CE\u7F8E\u9234"
+      - "\u559C\u3073"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u30C7\u30AB\u3044\u30AB\u30B8\u30CE\u4F1A\u793E\u306E\u5FA1\u66F9\u53F8\u3063\u3066\u3001\n\u8A71\u306F\u805E\u3044\u3066\u3044\u305F\u3051\u308C\u3069\u2026\u2026\u306A\uFF5E\u3093\u3060"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 76
+      debugIndex: 76
+      strings:
+      - 
+      - "\u9234\u91CE\u7F8E\u9234"
+      - "\u559C\u3073"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u305F\u3060\u306E\u30A8\u30ED\u30AC\u30AD\u3063\u3066\u308F\u3051\u304B\uFF5E\uFF01\n\u30A2\u30CF\u30CF\u30CF\u3001\u6B8B\u5FF5\u3067\u3057\u305F\uFF01"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 77
+      debugIndex: 77
+      strings:
+      - 
+      - "\u9234\u91CE\u7F8E\u9234"
+      - "\u559C\u3073"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u30A2\u30BF\u30B7\u306F\u8B77\u885B\u3060\u304B\u3089\uFF01\n\u30A8\u30ED\u3044\u3053\u3068\u306F\u7121\u3057\uFF01\u3000OK\uFF1F"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 78
+      debugIndex: 78
+      strings:
+      - Selection
+      - "*\u9078\u629E\u80A20201-2-a"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u30D0\u30AB\u30D0\u30AB\u3057\u3044"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 79
+      debugIndex: 79
+      strings:
+      - Selection
+      - "*\u9078\u629E\u80A20201-2-b"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u767A\u60F3\u306B\u54C1\u6027\u304C\u306A\u3044"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 80
+      debugIndex: 80
+      strings:
+      - "*\u9078\u629E\u80A20201-2-a"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 81
+      debugIndex: 81
+      strings:
+      - 
+      - "\u9234\u91CE\u7F8E\u9234"
+      - "\u6012\u308A"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u300C\u30D0\u30AB\u300D\u3063\u3066\u8A00\u3063\u305F\u304B\u2026\u2026\u4E0A\u7B49\u3063\u3002\n\u30A2\u30BF\u30B7\u306B\u305D\u3093\u306A\u53E3\u3092\u5229\u304F\u3068\u306F\u306D"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 82
+      debugIndex: 82
+      strings:
+      - Jump
+      - "*\u9078\u629E\u80A20201-2\u5408\u6D41"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 83
+      debugIndex: 83
+      strings:
+      - "*\u9078\u629E\u80A20201-2-b"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 84
+      debugIndex: 84
+      strings:
+      - 
+      - "\u9234\u91CE\u7F8E\u9234"
+      - "\u6012\u308A"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u307B\u3046\u307B\u3046\u3001\u54C1\u6027\u304C\u306A\u3044\u306D\u3002\n\u306A\u308B\u307B\u3069\u306D\u3047\u2026\u2026"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 85
+      debugIndex: 85
+      strings:
+      - Jump
+      - "*\u9078\u629E\u80A20201-2\u5408\u6D41"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 86
+      debugIndex: 86
+      strings:
+      - "*\u9078\u629E\u80A20201-2\u5408\u6D41"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 87
+      debugIndex: 87
+      strings:
+      - 
+      - "\u9234\u91CE\u7F8E\u9234"
+      - "\u6012\u308A"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u30A8\u30ED\u30AC\u30AD\u3001\n\u3082\u3046\u4E00\u56DE\u3060\u3051\u30C1\u30E3\u30F3\u30B9\u3092\u3042\u3052\u308B"
+      - 
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 88
+      debugIndex: 88
+      strings:
+      - 
+      - "\u9234\u91CE\u7F8E\u9234"
+      - "\u6012\u308A"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u3055\u3063\u304D\u306E\u8CEA\u554F\u3060\u3051\u3069\u3001\n\u4ECA\u5EA6\u306F\u3061\u3083\u3093\u3068\u7B54\u3048\u3066\u306D"
+      - 
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 89
+      debugIndex: 89
+      strings:
+      - 
+      - "\u9234\u91CE\u7F8E\u9234"
+      - "\u6012\u308A"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u30A2\u30BF\u30B7\u306E\u8A00\u3046\u901A\u308A\u306B\u3057\u3066\u3002\n\u4F59\u8A08\u306A\u771F\u4F3C\u306F\u3059\u3093\u3058\u3083\u306D\u30FC\u305E"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 90
+      debugIndex: 90
+      strings:
+      - 
+      - "\u9234\u91CE\u7F8E\u9234"
+      - "\u6012\u308A"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u90AA\u9B54\u3092\u3057\u306D\u3047\u3001\u6587\u53E5\u306F\u8A00\u308F\u306D\u3047\u3001\n\u30A2\u30BF\u30B7\u306E\u8A00\u3046\u3053\u3068\u306B\u306F\u5F93\u3046"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 91
+      debugIndex: 91
+      strings:
+      - 
+      - "\u9234\u91CE\u7F8E\u9234"
+      - "\u6012\u308A"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u30A8\u30ED\u30AC\u30AD\u3001\u308F\u304B\u3063\u305F\uFF1F"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 92
+      debugIndex: 92
+      strings:
+      - Selection
+      - "*\u9078\u629E\u80A20201-3-a"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u30A8\u30ED\u30AC\u30AD\u3063\u3066\uFF1F"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 93
+      debugIndex: 93
+      strings:
+      - Selection
+      - "*\u9078\u629E\u80A20201-3-b"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u96C7\u3044\u4E3B\u306F\u50D5\u3060\u305E"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 94
+      debugIndex: 94
+      strings:
+      - "*\u9078\u629E\u80A20201-3-a"
+      - 
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 95
+      debugIndex: 95
+      strings:
+      - Jump
+      - "*\u9078\u629E\u80A20201-3\u5408\u6D41"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 96
+      debugIndex: 96
+      strings:
+      - "*\u9078\u629E\u80A20201-3-b"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 97
+      debugIndex: 97
+      strings:
+      - Jump
+      - "*\u9078\u629E\u80A20201-3\u5408\u6D41"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 98
+      debugIndex: 98
+      strings:
+      - "*\u9078\u629E\u80A20201-3\u5408\u6D41"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 99
+      debugIndex: 99
+      strings:
+      - 
+      - "\u9234\u91CE\u7F8E\u9234"
+      - "\u6012\u308A"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u306F\u3044\u3001\u30D6\u30FC\u30C3\uFF01\uFF01\uFF01"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 100
+      debugIndex: 100
+      strings:
+      - Shake
+      - Camera
+      - 
+      - x=3
+      - 
+      - 
+      - 
+      - 
+      - 
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 101
+      debugIndex: 101
+      strings:
+      - 
+      - "\u4E3B\u4EBA\u516C"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u3050\u308F\u3041\u2026\u2026\uFF01"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 102
+      debugIndex: 102
+      strings:
+      - 
+      - "\u4E3B\u4EBA\u516C"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u30A4\u30C6\u30C6\u2026\u2026\u982D\u306E\u3066\u3063\u307A\u3093\u3092\u3001\n\u30B2\u30F3\u30B3\u30C4\u3067\u601D\u3044\u5207\u308A\u6BB4\u3089\u308C\u305F"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 103
+      debugIndex: 103
+      strings:
+      - 
+      - "\u9234\u91CE\u7F8E\u9234"
+      - "\u6012\u308A"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u3061\u3083\u3093\u3068\u7B54\u3048\u308D\u3063\u3066\u306E\uFF01"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 104
+      debugIndex: 104
+      strings:
+      - 
+      - "\u9234\u91CE\u7F8E\u9234"
+      - "\u6012\u308A"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u30B7\u30C4\u30B1\u306F\u30B2\u30F3\u30B3\u30C4\u4E3B\u7FA9\u3060\u304B\u3089\uFF01\n\u3088\u304F\u8003\u3048\u308B\u3053\u3068\uFF01"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 105
+      debugIndex: 105
+      strings:
+      - Selection
+      - "*\u9078\u629E\u80A20201-4-a"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u307C\u3001\u50D5\u306F\u96C7\u3044\u4E3B\u3060\u305E"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 106
+      debugIndex: 106
+      strings:
+      - "*\u9078\u629E\u80A20201-4-a"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 107
+      debugIndex: 107
+      strings:
+      - 
+      - "\u9234\u91CE\u7F8E\u9234"
+      - "\u6012\u308A"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u3046\u308B\u305B\u30FC\u306A\uFF01\n\u3053\u3053\u3067\u306F\u30A2\u30BF\u30B7\u304C\u30EB\u30FC\u30EB\u306A\u306E\uFF01"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 108
+      debugIndex: 108
+      strings:
+      - 
+      - "\u9234\u91CE\u7F8E\u9234"
+      - "\u6012\u308A"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u3064\u30FC\u304B\u30A2\u30BF\u30B7\u306E\u65B9\u304C\u5E74\u4E0A\u3060\u3057\uFF01\n\u4EBA\u751F\u306E\u5148\u8F29\u306F\u3001\u656C\u3046\u3082\u3093\u3067\u3057\u3087\uFF01"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 109
+      debugIndex: 109
+      strings:
+      - 
+      - "\u4E3B\u4EBA\u516C"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u2026\u2026\u306A\u3093\u3060\u30B3\u30A4\u30C4\u3001\u30E1\u30C1\u30E3\u30AF\u30C1\u30E3\u3060\u3002\n\u3053\u3093\u306A\u30E4\u30C4\u304C\u8B77\u885B\u306A\u306E\u304B\uFF1F"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 110
+      debugIndex: 110
+      strings:
+      - 
+      - "\u4E3B\u4EBA\u516C"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u8B77\u885B\u306E\u304F\u305B\u306B\u3001\u50D5\u3092\u6BB4\u3063\u305F\u3002\n\u3053\u306E\u50D5\u3092\u2026\u2026"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 111
+      debugIndex: 111
+      strings:
+      - 
+      - "\u9234\u91CE\u7F8E\u9234"
+      - "\u559C\u3073"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u4E0D\u670D\u305D\u3046\u306A\u76EE\u3092\u3057\u3066\u2026\u2026\u4E0A\u7B49\u266A\n\u3082\u3046\u4E00\u767A\u30D6\u30F3\u6BB4\u3063\u3066\u3084\u308D\u3046\u304B\uFF1F"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 112
+      debugIndex: 112
+      strings:
+      - 
+      - "\u9234\u91CE\u7F8E\u9234"
+      - "\u559C\u3073"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u3072\u306D\u304F\u308C\u305F\u30A8\u30ED\u30AC\u30AD\u306E\u30B7\u30C4\u30B1\u306F\u3001\n\u547D\u4EE4\u306B\u306A\u3044\u3051\u3069\u3001\u7279\u5225\u30B5\u30FC\u30D3\u30B9\uFF01"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 113
+      debugIndex: 113
+      strings:
+      - 
+      - "\u9234\u91CE\u7F8E\u9234"
+      - "\u559C\u3073"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u30A2\u30F3\u30BF\u3092\u4F55\u767A\u3067\u3082\u30D6\u30F3\u6BB4\u3063\u3066\u3001\n\u6839\u6027\u53E9\u304D\u76F4\u3057\u3066\u3084\u308B\u3088\uFF01"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 114
+      debugIndex: 114
+      strings:
+      - 
+      - "\u4E3B\u4EBA\u516C"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u30D0\u30AB\u3067\u4F53\u7F70\u80AF\u5B9A\u8AD6\u8005\u3060\u3002\u8A71\u304C\u901A\u3058\u306A\u3044\u3002\n\u3053\u3053\u3067\u9006\u3089\u3046\u306E\u306F\u5F97\u7B56\u3058\u3083\u306A\u3044"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 115
+      debugIndex: 115
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u30D0\u30AB\u306B\u6B63\u8AD6\u306F\u901A\u3058\u306A\u3044\u304B\u3089\u3060\u3002\n\u3053\u3046\u3044\u3046\u6642\u306F\u9069\u5F53\u306B\u8A71\u3092\u9038\u3089\u3059\u3093"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 116
+      debugIndex: 116
+      strings:
+      - Selection
+      - "*\u9078\u629E\u80A20201-5-a"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u305D\u3001\u305D\u306E\u670D\u3001\u5909\u308F\u3063\u3066\u307E\u3059\u306D"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 117
+      debugIndex: 117
+      strings:
+      - "*\u9078\u629E\u80A20201-5-a"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 118
+      debugIndex: 118
+      strings:
+      - 
+      - "\u9234\u91CE\u7F8E\u9234"
+      - "\u559C\u3073"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u304A\u3063\u3001\u30A8\u30ED\u30AC\u30AD\u2026\u2026\uFF01\n\u6848\u5916\u306B\u898B\u308B\u76EE\u304C\u3042\u308B\u3058\u3083\u3093\u266A"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 119
+      debugIndex: 119
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      isEmpty: 1
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 120
+      debugIndex: 120
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      isEmpty: 1
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 121
+      debugIndex: 121
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      isEmpty: 1
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 122
+      debugIndex: 122
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      isEmpty: 1
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 123
+      debugIndex: 123
+      strings:
+      - 
+      - 
+      isEmpty: 1
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 124
+      debugIndex: 124
+      strings:
+      - 
+      isEmpty: 1
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 125
+      debugIndex: 125
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      isEmpty: 1
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 126
+      debugIndex: 126
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      isEmpty: 1
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 127
+      debugIndex: 127
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      isEmpty: 1
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 128
+      debugIndex: 128
+      strings:
+      - 
+      - 
+      isEmpty: 1
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 129
+      debugIndex: 129
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      isEmpty: 1
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 130
+      debugIndex: 130
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      isEmpty: 1
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 131
+      debugIndex: 131
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      isEmpty: 1
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 132
+      debugIndex: 132
+      strings:
+      - 
+      - 
+      isEmpty: 1
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 133
+      debugIndex: 133
+      strings:
+      - 
+      isEmpty: 1
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 134
+      debugIndex: 134
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      isEmpty: 1
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 135
+      debugIndex: 135
+      strings:
+      - 
+      isEmpty: 1
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 136
+      debugIndex: 136
+      strings:
+      - 
+      isEmpty: 1
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 137
+      debugIndex: 137
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      isEmpty: 1
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 138
+      debugIndex: 138
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      isEmpty: 1
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 139
+      debugIndex: 139
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      isEmpty: 1
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 140
+      debugIndex: 140
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      isEmpty: 1
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 141
+      debugIndex: 141
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      isEmpty: 1
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 142
+      debugIndex: 142
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      isEmpty: 1
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 143
+      debugIndex: 143
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      isEmpty: 1
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 144
+      debugIndex: 144
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      isEmpty: 1
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 145
+      debugIndex: 145
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      isEmpty: 1
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 146
+      debugIndex: 146
+      strings: []
+      isEmpty: 1
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 147
+      debugIndex: 147
+      strings: []
+      isEmpty: 1
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 148
+      debugIndex: 148
+      strings: []
+      isEmpty: 1
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 149
+      debugIndex: 149
+      strings: []
+      isEmpty: 1
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 150
+      debugIndex: 150
+      strings: []
+      isEmpty: 1
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 151
+      debugIndex: 151
+      strings: []
+      isEmpty: 1
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 152
+      debugIndex: 152
+      strings: []
+      isEmpty: 1
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 153
+      debugIndex: 153
+      strings: []
+      isEmpty: 1
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 154
+      debugIndex: 154
+      strings: []
+      isEmpty: 1
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 155
+      debugIndex: 155
+      strings: []
+      isEmpty: 1
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 156
+      debugIndex: 156
+      strings: []
+      isEmpty: 1
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 157
+      debugIndex: 157
+      strings: []
+      isEmpty: 1
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 158
+      debugIndex: 158
+      strings: []
+      isEmpty: 1
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 159
+      debugIndex: 159
+      strings: []
+      isEmpty: 1
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 160
+      debugIndex: 160
+      strings: []
+      isEmpty: 1
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 161
+      debugIndex: 161
+      strings: []
+      isEmpty: 1
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 162
+      debugIndex: 162
+      strings: []
+      isEmpty: 1
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 163
+      debugIndex: 163
+      strings:
+      - Jump
+      - '*chapter0202_Start'
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
     name: Assets/test260903/chapter0201.xlsx:chapter0201
     type: 1
-    textLength: 150
+    textLength: 3039
     headerRow: 0
     sourceAssetInEditor: {fileID: 0}
