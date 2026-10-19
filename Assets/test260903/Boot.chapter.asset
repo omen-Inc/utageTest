@@ -317,9 +317,335 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
+    - rowIndex: 17
+      debugIndex: 17
+      strings: []
+      isEmpty: 1
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 18
+      debugIndex: 18
+      strings:
+      - "\u9234\u91CE\u7F8E\u9234"
+      - 
+      - "\u76EE\u9589\u3058"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - mirei/002_suzuno_sleep.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 19
+      debugIndex: 19
+      strings:
+      - "\u7D50\u57CE\u594F"
+      - 
+      - "\u901A\u5E38\uFF08\u901A\u4FE1\u30A8\u30D5\u30A7\u30AF\u30C8\uFF09"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - kanade/003_yuki_normal_comm.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 20
+      debugIndex: 20
+      strings:
+      - 
+      - 
+      - "\u559C\u3073\uFF08\u901A\u4FE1\u30A8\u30D5\u30A7\u30AF\u30C8\uFF09"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - kanade/003_yuki_happy_comm.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 21
+      debugIndex: 21
+      strings:
+      - 
+      - 
+      - "\u6012\u308A\uFF08\u901A\u4FE1\u30A8\u30D5\u30A7\u30AF\u30C8\uFF09"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - kanade/003_yuki_angry_comm.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 22
+      debugIndex: 22
+      strings:
+      - 
+      - 
+      - "\u60B2\u3057\u307F\uFF08\u901A\u4FE1\u30A8\u30D5\u30A7\u30AF\u30C8\uFF09"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - kanade/003_yuki_sad_comm.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 23
+      debugIndex: 23
+      strings:
+      - 
+      - 
+      - "\u559C\u3073\uFF08\u70AD\u5316\uFF09"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - kanade/003_yuki_happy_burnt.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 24
+      debugIndex: 24
+      strings:
+      - 
+      - 
+      - "\u60B2\u3057\u307F\uFF08\u70AD\u5316\uFF09"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - kanade/003_yuki_sad_burnt.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 25
+      debugIndex: 25
+      strings:
+      - "\u53D4\u7236"
+      - 
+      - "\u602F\u3048"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - oji/002_oji_fear.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 26
+      debugIndex: 26
+      strings:
+      - 
+      - 
+      - "\u9006\u4E0A"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - oji/002_oji_rage.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 27
+      debugIndex: 27
+      strings:
+      - 
+      - 
+      - "\u5F31\u6C17"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - oji/002_oji_weak.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 28
+      debugIndex: 28
+      strings:
+      - "\u5E2B\u5320"
+      - 
+      - "\u901A\u5E38"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - shisho/002_shisho_normal.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 29
+      debugIndex: 29
+      strings:
+      - 
+      - 
+      - "\u7B11\u3044"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - shisho/002_shisho_laugh.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 30
+      debugIndex: 30
+      strings:
+      - "\u8972\u6483\u8005"
+      - 
+      - "\u8CA0\u50B7"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - russian/002_russian_hurt.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 31
+      debugIndex: 31
+      strings:
+      - "\u767D\u86C7\u306E\u7537"
+      - 
+      - "\u901A\u5E38"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - hakuja/002_hakuja_normal.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 32
+      debugIndex: 32
+      strings:
+      - 
+      - 
+      - "\u8CA0\u50B7"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - hakuja/002_hakuja_hurt.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 33
+      debugIndex: 33
+      strings:
+      - "\u5E97\u9577"
+      - 
+      - "\u602F\u3048"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - tencho/002_tencho_fear.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 34
+      debugIndex: 34
+      strings:
+      - "\u7802\u585A\u6D69\u4E8C"
+      - 
+      - "\u901A\u5E38"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - sunazuka/003_sunazuka_normal.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 35
+      debugIndex: 35
+      strings:
+      - 
+      - 
+      - "\u967A\u3057\u3044"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - sunazuka/003_sunazuka_stern.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 36
+      debugIndex: 36
+      strings:
+      - 
+      - 
+      - "14\u5E74\u5F8C"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - sunazuka/003_sunazuka_old_normal.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 37
+      debugIndex: 37
+      strings:
+      - "\u8B0E\u306E\u7537"
+      - 
+      - "\u901A\u5E38"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - sunazuka/003_sunazuka_normal.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
     name: Assets/test260903/test260903.xlsx:Character
     type: 1
-    textLength: 607
+    textLength: 1283
     headerRow: 0
     sourceAssetInEditor: {fileID: 0}
   - rows:
@@ -993,9 +1319,225 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
+    - rowIndex: 46
+      debugIndex: 46
+      strings: []
+      isEmpty: 1
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 47
+      debugIndex: 47
+      strings:
+      - "\u80CC\u666F\uFF1A\u901A\u5B66\u8DEF\uFF083\u7AE0\u30FB\u5915\u65B9\uFF09"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - tsugakuro_ch3_evening.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 48
+      debugIndex: 48
+      strings:
+      - "\u80CC\u666F\uFF1A\u4F4F\u5B85\u8857\uFF08\u5915\u65B9\uFF09"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - residential_evening.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 49
+      debugIndex: 49
+      strings:
+      - "\u80CC\u666F\uFF1A\u9244\u88FD\u306E\u673A\u3068\u6905\u5B50\u3057\u304B\u306A\u3044\u90E8\u5C4B"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - cell.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 50
+      debugIndex: 50
+      strings:
+      - "\u80CC\u666F\uFF1A\u30A2\u30EB\u30D0\u30E0"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - album.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 51
+      debugIndex: 51
+      strings:
+      - "\u80CC\u666F\uFF1A\u6D5C\u8FBA\uFF08\u591C\u30FB\u5CA9\u3042\u308A\uFF09"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - beach_night_stone.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 52
+      debugIndex: 52
+      strings:
+      - "\u80CC\u666F\uFF1A\u6D5C\u8FBA\uFF08\u591C\uFF09"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - beach_night.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 53
+      debugIndex: 53
+      strings:
+      - "\u80CC\u666F\uFF1A\u65BD\u8A2D\u5185\u306E\u90E8\u5C4B\uFF08\u671D\uFF09"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - facility_room.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 54
+      debugIndex: 54
+      strings:
+      - "\u80CC\u666F\uFF1A\u7802\u6D5C\u306E\u767A\u5C04\u53F0"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - launch_pad.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 55
+      debugIndex: 55
+      strings:
+      - "\u80CC\u666F\uFF1A\u7802\u6D5C\u306E\u767A\u5C04\u53F0\uFF08\u713C\u3051\u8DE1\uFF09"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - launch_pad_burnt.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 56
+      debugIndex: 56
+      strings:
+      - "\u80CC\u666F\uFF1A\u7BA1\u5236\u5BA4"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - control_room.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 57
+      debugIndex: 57
+      strings:
+      - "\u80CC\u666F\uFF1A\u533B\u52D9\u5BA4"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - infirmary.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 58
+      debugIndex: 58
+      strings:
+      - "\u80CC\u666F\uFF1A\u55AB\u8336\u5E97"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - cafe.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 59
+      debugIndex: 59
+      strings:
+      - "\u4E00\u679A\u7D75\uFF1A\u7F8E\u9234\u306E\u5BDD\u9854"
+      - Event
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - event_002.jpg
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 60
+      debugIndex: 60
+      strings:
+      - "\u4E00\u679A\u7D75\uFF1A\u7A93\u8D8A\u3057\u306E\u594F"
+      - Event
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - event_003.jpg
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
     name: Assets/test260903/test260903.xlsx:Texture
     type: 1
-    textLength: 1346
+    textLength: 1732
     headerRow: 0
     sourceAssetInEditor: {fileID: 0}
   - rows:
@@ -1586,9 +2128,118 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
+    - rowIndex: 36
+      debugIndex: 36
+      strings: []
+      isEmpty: 1
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 37
+      debugIndex: 37
+      strings:
+      - "BGM_\u30AF\u30E9\u30A4\u30DE\u30C3\u30AF\u30B9"
+      - Will you still cry?
+      - Bgm
+      - will_you_still_cry.mp3
+      - 10.847
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 38
+      debugIndex: 38
+      strings:
+      - "\u30D7\u30E9\u30BA\u30DE\u97F3"
+      - 
+      - Se
+      - plasma.mp3
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 39
+      debugIndex: 39
+      strings:
+      - "\u30D3\u30FC\u30E0\u97F3"
+      - 
+      - Se
+      - beam.mp3
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 40
+      debugIndex: 40
+      strings:
+      - "\u6A5F\u68B0\u306E\u99C6\u52D5\u97F3\uFF08\u6B6F\u8ECA\uFF09"
+      - 
+      - Se
+      - machine_gear.mp3
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 41
+      debugIndex: 41
+      strings:
+      - "\u6B53\u58F0\u30FB\u62CD\u624B"
+      - 
+      - Se
+      - cheer.mp3
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 42
+      debugIndex: 42
+      strings:
+      - "\u4F53\u304C\u5D29\u308C\u308B\u97F3"
+      - 
+      - Se
+      - crumble.mp3
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 43
+      debugIndex: 43
+      strings:
+      - "\u6CE2\u306E\u97F3"
+      - 
+      - Ambience
+      - wave.mp3
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 44
+      debugIndex: 44
+      strings:
+      - "\u6642\u8A08\u306E\u79D2\u91DD"
+      - 
+      - Ambience
+      - clock_tick.mp3
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 45
+      debugIndex: 45
+      strings:
+      - "\u55AB\u8336\u5E97\u306E\u74B0\u5883\u97F3"
+      - 
+      - Ambience
+      - cafe_ambience.mp3
+      - 
+      - 0.5
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 46
+      debugIndex: 46
+      strings:
+      - "\u96D1\u8E0F"
+      - 
+      - Ambience
+      - crowd.mp3
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
     name: Assets/test260903/test260903.xlsx:Sound
     type: 1
-    textLength: 912
+    textLength: 1167
     headerRow: 0
     sourceAssetInEditor: {fileID: 0}
   - rows:

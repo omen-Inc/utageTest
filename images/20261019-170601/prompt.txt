@@ -1,0 +1,4 @@
+Edit the reference image. Keep the same character exactly the same (face, hairstyle, outfit, body, framing, art style, plain white background). Only change the following: apply a monitor / video-call transmission effect over the character: slight cyan-blue holographic tint, thin horizontal scanlines, subtle RGB chromatic aberration at the edges, faint digital noise and glow, as if she is shown on a screen through headset communication. Keep her expression.
+
+[参考画像]
+/Users/a.nakashima/Documents/GitHub/utageTest/Assets/test260903/Resources/test260903/Texture/Character/kanade/003_yuki_sad.png

@@ -1,0 +1,4 @@
+Edit the reference image. Keep the same character exactly the same (face, hairstyle, outfit, body, framing, art style, plain white background). Only change the following: her whole body, hair and clothes have turned into black charcoal like burnt wood, keeping the same silhouette, pose and smiling expression; fine cracks with faint orange glowing embers, a few ash flakes floating. Not gory: no blood, no wounds, no exposed anatomy; it looks like a charcoal statue of her.
+
+[参考画像]
+/Users/a.nakashima/Documents/GitHub/utageTest/Assets/test260903/Resources/test260903/Texture/Character/kanade/003_yuki_happy.png

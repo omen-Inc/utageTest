@@ -1,0 +1,4 @@
+Use the reference image ONLY as an art-style reference (line weight, glossy anime cel shading, coloring and rendering quality of this Japanese visual novel). Do NOT draw the person in the reference. Draw a NEW character in exactly that art style: a large, burly Russian mercenary in his 30s, blond buzz cut, stubble, dark tactical jacket, he has been shot in both shoulders: small blood stains on both shoulders (not gory), arms hanging, grimacing in pain with a frightened expression, sweating. Visual novel character sprite, waist-up, facing the viewer, centered, plain pure white background, no text, no frame.
+
+[参考画像]
+/private/tmp/claude-501/-Users-a-nakashima-Documents-GitHub-utageTest/1ab1af2e-55e4-42ff-8f89-2ebc655b4df8/scratchpad/refs/mirei_face.png

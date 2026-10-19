@@ -1,0 +1,4 @@
+Edit the reference image: make the character close her eyes peacefully as if sleeping, keep everything else (face, hair, outfit, pose, art style, framing, white background) exactly the same.
+
+[参考画像]
+/Users/a.nakashima/Documents/GitHub/utageTest/Assets/test260903/Resources/test260903/Texture/Character/mirei/002_suzuno_normal.png

@@ -1,0 +1,4 @@
+Use the reference image ONLY as an art-style reference (line weight, glossy anime cel shading, coloring and rendering quality of this Japanese visual novel). Do NOT draw the person in the reference. Draw a NEW character in exactly that art style: a chubby middle-aged Russian restaurant owner, balding brown hair, thick mustache, white shirt with rolled sleeves and a dark red apron, terrified expression with wide eyes and sweat, clutching his injured left hand with a bandage. Visual novel character sprite, waist-up, facing the viewer, centered, plain pure white background, no text, no frame.
+
+[参考画像]
+/private/tmp/claude-501/-Users-a-nakashima-Documents-GitHub-utageTest/1ab1af2e-55e4-42ff-8f89-2ebc655b4df8/scratchpad/refs/mirei_face.png

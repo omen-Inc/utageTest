@@ -1,0 +1,4 @@
+Edit the reference image. Keep the same character exactly the same (face, hairstyle, outfit, body, framing, art style, plain white background). Only change the following: he is badly wounded after a fight: torn and dusty suit, bruises, a bloodied bandage around his throat (not gory), sweating, pained hoarse expression, kneeling posture is not needed, keep waist-up.
+
+[参考画像]
+/Users/a.nakashima/Documents/GitHub/utageTest/images/20261019-170411/gemini.png

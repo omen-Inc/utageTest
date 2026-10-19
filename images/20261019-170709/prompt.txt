@@ -1,0 +1,4 @@
+Event CG illustration for a Japanese visual novel, in exactly the same art style as the reference image, the same girl (long silver hair, red eyes) depicted as a 14-year-old girl with age-appropriate proportions, modest and non-sexualized. Scene: viewed from inside a Tokyo coffee shop through the window glass, outside on a sunny school route she walks and laughs happily with two friends, wearing a neat summer school uniform; soft reflections on the glass, warm nostalgic light, she is small in the frame. No text.
+
+[参考画像]
+/private/tmp/claude-501/-Users-a-nakashima-Documents-GitHub-utageTest/1ab1af2e-55e4-42ff-8f89-2ebc655b4df8/scratchpad/refs/kanade_face.png

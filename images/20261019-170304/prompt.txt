@@ -1,0 +1,4 @@
+Edit the reference image. Keep the same character exactly the same (face, hairstyle, outfit, body, framing, art style, plain white background). Only change the following: his expression and pose: weak and defeated, drooping eyebrows, timid pleading look, shoulders slumped, hands lowered.
+
+[参考画像]
+/Users/a.nakashima/Documents/GitHub/utageTest/images/20261019-165311/gemini.png

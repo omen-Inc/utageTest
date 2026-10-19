@@ -1,0 +1,4 @@
+Event CG illustration for a Japanese visual novel, in exactly the same art style and with the same character as the reference image (tan-skinned woman with long blonde twin tails and red hair ornaments, wearing a yellow Chinese-style top with red cloud patterns). Scene: inside a luxurious private jet cabin at sunset, she is fast asleep in a cream leather seat, head tilted slightly toward the viewer, peaceful sleeping face with eyes closed, seen from the point of view of the boy sitting in the next seat. Tasteful framing focused on her face and shoulders. Warm sunset light through oval windows. No text.
+
+[参考画像]
+/private/tmp/claude-501/-Users-a-nakashima-Documents-GitHub-utageTest/1ab1af2e-55e4-42ff-8f89-2ebc655b4df8/scratchpad/refs/mirei_face.png

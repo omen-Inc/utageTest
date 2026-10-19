@@ -1,0 +1,4 @@
+Edit the reference image. Keep the same character exactly the same (face, hairstyle, outfit, body, framing, art style, plain white background). Only change the following: show him 14 years older (early 60s): gray hair, deeper wrinkles, slightly thinner face; no lab coat, he wears a plain dark suit and tie; calm composed expression. Same glasses.
+
+[参考画像]
+/Users/a.nakashima/Documents/GitHub/utageTest/images/20261019-170446/gemini.png
