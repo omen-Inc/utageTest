@@ -138,9 +138,169 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
+    - rowIndex: 7
+      debugIndex: 7
+      strings:
+      - "\u9234\u91CE\u7F8E\u9234"
+      - 
+      - "\u901A\u5E38"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - mirei/002_suzuno_normal.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 8
+      debugIndex: 8
+      strings:
+      - 
+      - 
+      - "\u559C\u3073"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - mirei/002_suzuno_happy.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 9
+      debugIndex: 9
+      strings:
+      - 
+      - 
+      - "\u6012\u308A"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - mirei/002_suzuno_angry.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 10
+      debugIndex: 10
+      strings:
+      - 
+      - 
+      - "\u60B2\u3057\u307F"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - mirei/002_suzuno_sad.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 11
+      debugIndex: 11
+      strings:
+      - 
+      - 
+      - "\u7167\u308C"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - mirei/002_suzuno_tere.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 12
+      debugIndex: 12
+      strings:
+      - "\u7D50\u57CE\u594F"
+      - 
+      - "\u901A\u5E38"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - kanade/003_yuki_normal.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 13
+      debugIndex: 13
+      strings:
+      - 
+      - 
+      - "\u559C\u3073"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - kanade/003_yuki_happy.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 14
+      debugIndex: 14
+      strings:
+      - 
+      - 
+      - "\u6012\u308A"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - kanade/003_yuki_angry.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 15
+      debugIndex: 15
+      strings:
+      - 
+      - 
+      - "\u60B2\u3057\u307F"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - kanade/003_yuki_sad.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 16
+      debugIndex: 16
+      strings:
+      - 
+      - 
+      - "\u7167\u308C"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - kanade/003_yuki_tere.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
     name: Assets/test260903/test260903.xlsx:Character
     type: 1
-    textLength: 327
+    textLength: 607
     headerRow: 0
     sourceAssetInEditor: {fileID: 0}
   - rows:
